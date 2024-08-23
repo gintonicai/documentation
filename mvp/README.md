@@ -9,7 +9,7 @@ description: >-
 
 ## Welcome to gintonic!
 
-Welcome to our unified decentralized AI ecosystem! Our platform is designed to transform the way AI is developed and deployed, providing a more efficient and streamlined approach to AI development.
+Welcome to our unified decentralized AI ecosystem! Our platform is designed to transform the way AI is developed and deployed, providing a more efficient and streamlined approach to AI development. 
 
 Our ecosystem leverages the power of blockchain technology to create a decentralized network of specialized subchains, each tailored for specific AI tasks and services. This allows us to provide high-performance, low-latency services for a wide range of AI applications.
 
@@ -25,9 +25,9 @@ In addition to our specialized subchains, our platform also includes a range of 
 
 **AI model configuration** is a set of parameters and settings that define the architecture and behaviour of an artificial neural network or other machine model used to solve artificial intelligence problems.
 
-## What is fine-tuning?&#x20;
+## What is fine-tuning?&#x20; 
 
-**Fine-tuning** is the process of adjusting a pre-trained machine learning model to improve its performance on a specific task. In fine tuning, a pre-trained model is used as a starting point and its parameters are adjusted to better match the target task data.
+**Fine-tuning** is the process of adjusting a pre-trained machine learning model to improve its performance on a specific task. In fine tuning, a pre-trained model is used as a starting point and its parameters are adjusted to better match the target task data
 
 ## Quick Links
 
