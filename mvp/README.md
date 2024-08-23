@@ -7,7 +7,7 @@ description: >-
 
 # Overview
 
-## Welcome to gintonic!
+## Welcome to gintonic
 
 Welcome to our unified decentralized AI ecosystem! Our platform is designed to transform the way AI is developed and deployed, providing a more efficient and streamlined approach to AI development. 
 
