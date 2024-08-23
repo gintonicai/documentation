@@ -31,6 +31,6 @@ In addition to our specialized subchains, our platform also includes a range of 
 
 ## Quick Links
 
-[Gintonic](https://console.gintonic.ai/)
+[gintonic](https://console.gintonic.ai/)
 
 [AIspeakeasy ](https://aispeakeasy.com/)
