@@ -29,6 +29,28 @@ Where:
 
 Don't worry if this seems complex - your node handles all the tracking automatically!
 
+On the backend, here's how the charging process works:
+
+1. When an inference job is initiated, the system calculates the charge per message.
+2. This charge is added to the system balance (no actual token transfers occur at this stage).
+3. As nodes (including yours) complete work, rewards are distributed from this system balance.
+
+This process ensures fair and transparent distribution of rewards based on the actual work completed by each node.
+
+## Technical Details of Reward Distribution
+
+For transparency, here's how rewards are distributed at a system level:
+
+- If your node is the initial peer, rewards go to a special initial_peer_public_address.
+- If your node has a registered public address, rewards go directly to that address.
+- If your node doesn't have a registered public address, rewards go to an unauth_peer_public_address.
+
+The system also maintains a system_public_address that receives system fees and rewards for unauthorized peers.
+
+{% hint style="info" %}
+These addresses are managed by the Gintonic system. As a node operator, you only need to ensure your node is properly set up with your public address.
+{% endhint %}
+
 ### Checking Your Reward Balance
 
 Curious about how much you've earned? Here's how to check:

@@ -67,6 +67,15 @@ docker start gintonic-distillery
 Remember, your node only earns $GIN when it's online and processing tasks. Try to minimize downtime!
 {% endhint %}
 
+Your Gintonic client can be stopped in several ways:
+
+- Using the docker stop command (as shown above)
+- Manually killing the process
+- Restarting or shutting down your machine
+- Using the CTRL+C keyboard shortcut if running in an interactive terminal
+
+Regardless of how it's stopped, you can always restart your node using the docker start command provided earlier.
+
 ### Updating Your Node
 
 We're constantly improving Gintonic. To get the latest version:
