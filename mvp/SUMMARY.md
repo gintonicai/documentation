@@ -1,11 +1,6 @@
 # Table of contents
 
 * [gintonic hub](README.md)
-  * [Page 5](readme/page-5.md)
-  * [Page 4](readme/page-4.md)
-  * [Page 3](readme/page-3.md)
-  * [Page 2](readme/page-2.md)
-  * [Page 1](readme/page-1.md)
 * [Live Subchains](live-subchains/README.md)
   * [distillery intro](live-subchains/distillery-intro.md)
   * [inference intro](live-subchains/inference-intro.md)
