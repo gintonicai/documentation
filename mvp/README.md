@@ -1,8 +1,6 @@
 ---
 description: >-
-  This documentation provides detailed guidance for external participants,
-  particularly compute miners and developers, to effectively engage with
-  Gintonic's platform.
+  Explore the gintonic ecosystem, a decentralized AI platform leveraging blockchain technology. Learn about our specialized subchains for AI tasks, the GIN token economy, and how we're revolutionizing AI development and deployment. Discover how gintonic democratizes access to advanced AI technologies and fosters collaborative innovation in the AI industry.
 ---
 
 # Gintonic Hub

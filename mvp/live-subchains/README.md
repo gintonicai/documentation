@@ -1,7 +1,9 @@
-The **Planned Subchains** in the Gintonic ecosystem represent the future direction of the platform, aiming to expand its capabilities and address emerging needs in AI development. These subchains are currently in the conceptual or development stages, with each one set to provide specialized functions that will enhance the ecosystem's versatility, scalability, and innovation.
+# Live Subchains
 
-By focusing on areas such as AI governance, advanced data management, and enhanced model training, the Planned Subchains are designed to tackle complex challenges that are increasingly relevant in the AI landscape. Once implemented, these subchains will integrate seamlessly with the existing infrastructure, contributing to a more robust and comprehensive platform.
+The **Live Subchains** in the Gintonic ecosystem are the active and operational components that drive the core functionalities of the platform. These subchains are fully integrated with the Gintonic Level 0 chain, ensuring seamless interaction and collaboration across various AI tasks.
 
-The Planned Subchains are a testament to Gintonic's commitment to staying ahead of the curve, anticipating the needs of AI developers, and ensuring that the ecosystem remains at the forefront of technological advancements. These future developments will further empower users to create, deploy, and manage AI solutions that are not only powerful but also ethical and secure.
+Each Live Subchain is designed to address specific challenges within AI development, offering specialized services that contribute to the overall efficiency, scalability, and innovation of the ecosystem. By focusing on distinct areas such as AI inference, data privacy, and API integration, the Live Subchains empower developers and organizations to build, deploy, and manage AI applications with greater ease and security.
 
-For more detailed information on each Planned Subchain, please refer to their respective sub-pages.
+These subchains not only facilitate the practical aspects of AI development but also foster a collaborative environment where resources can be shared, and innovation can thrive. As the Gintonic ecosystem continues to evolve, the Live Subchains will play a crucial role in maintaining the platform's robustness and adaptability, ensuring that it meets the needs of the AI community.
+
+For detailed information on each Live Subchain, please refer to their respective sub-pages.
