@@ -1,6 +1,15 @@
 # Table of contents
 
 * [gintonic hub](README.md)
+  * [distillery subnet](readme/distillery-subnet.md)
+  * [inference subnet](readme/inference-subnet.md)
+  * [privateAI subnet](readme/privateai-subnet.md)
+  * [Page 5](readme/page-5.md)
+  * [Page 4](readme/page-4.md)
+  * [Page 3](readme/page-3.md)
+  * [Page 2](readme/page-2.md)
+  * [Page 1](readme/page-1.md)
+* [Page](page.md)
 * [Layer Structure](layer-structure/README.md)
   * [AI Services Layer](layer-structure/ai-services-layer.md)
   * [AI Platform Services Layer](layer-structure/ai-platform-services-layer.md)
