@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [gintonic hub](README.md)
 * [Layer Structure](layer-structure/README.md)
   * [AI Services Layer](layer-structure/ai-services-layer.md)
   * [AI Platform Services Layer](layer-structure/ai-platform-services-layer.md)
