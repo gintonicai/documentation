@@ -18,7 +18,7 @@ Simple, right? Now, let's break it down further.
 
 In the world of Gintonic, GIN tokens are your currency. Here's what you need to know:
 
-* **1 GIN Token** ≈ 1000 AI tokens
+* **1 GIN Token** = 1,000,000AI tokens
 * **AI Tokens**: These are the units used to measure the length of input and output text.
 * **Pricing**: Check our pricing page for the most up-to-date rates.
 
