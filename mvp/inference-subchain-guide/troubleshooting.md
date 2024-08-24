@@ -125,6 +125,10 @@ Here's a quick reference for common error messages you might encounter:
 | 429        | "Too Many Requests"     | You've exceeded the rate limit               | Implement backoff and retry logic                                           |
 | 500        | "Internal Server Error" | An unexpected error occurred on our end      | If persistent, contact our support team                                     |
 
+| "Max Token Limit Exceeded" | The maximum token limit in the model response has been exceeded | Start a new chat session. The current session will be lost |
+| "Invalid Data" | The server-side script encountered issues due to incorrect data in the request | Check your request format and data |
+
+
 ### Debugging Tools
 
 To help diagnose issues, we provide several debugging tools:
