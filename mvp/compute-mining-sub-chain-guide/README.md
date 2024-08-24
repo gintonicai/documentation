@@ -2,9 +2,10 @@
 description: >-
   In this section you will find a guide on how to connect your machine to the
   server and get rewards for providing its power.
+hidden: true
 ---
 
-# Compute Mining Sub-chain Guide
+# leg. distillery subnet guide
 
 ### Section content
 

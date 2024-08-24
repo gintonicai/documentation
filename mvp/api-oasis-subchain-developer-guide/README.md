@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: false
 ---
 
-# API Oasis Subchain - Developer Guide
+# leg. inference subnet guide
 
 Welcome to the Developer Guide! This guide will walk you through the process of setting up and running a configuration of Gintonic. Whether you're a seasoned AI developer or just starting out, this guide will provide you with the necessary steps to jumpstart your journey in the world of AI development with Gintonic.
 
