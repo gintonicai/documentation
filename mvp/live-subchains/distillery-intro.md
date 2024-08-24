@@ -1,8 +1,13 @@
-# distillery subchain
+---
+description: >-
+  Discover the gintonic distillery subchain, a revolutionary platform for
+  distributed AI inference. Learn how it leverages the Petals framework to
+  enable collaborative processing of large language model
+---
 
-Powering Distributed AI Inference
+# distillery intro
 
-Discover the gintonic distillery subchain, a revolutionary platform for distributed AI inference. Learn how it leverages the Petals framework to enable collaborative processing of large language models, and explore the benefits of participating as a distiller, including earning $GIN tokens for your GPU contributions.
+> Powering Distributed AI Inference
 
 ## Overview
 
@@ -18,9 +23,9 @@ The processed inferences are then seamlessly integrated into the gintonic ecosys
 
 Participation in the distillery subchain comes with tangible benefits for contributors:
 
-- **Earn Rewards**: Distillers are rewarded with $GIN, the native token of the gintonic ecosystem, for their computational contributions.
-- **Economic Incentives**: This creates an economic incentive for users to join the network, fostering the growth of a robust, decentralized AI infrastructure.
-- **Utilize Idle Resources**: Participants can earn rewards for their idle GPU resources, maximizing the utility of their hardware.
+* **Earn Rewards**: Distillers are rewarded with $GIN, the native token of the gintonic ecosystem, for their computational contributions.
+* **Economic Incentives**: This creates an economic incentive for users to join the network, fostering the growth of a robust, decentralized AI infrastructure.
+* **Utilize Idle Resources**: Participants can earn rewards for their idle GPU resources, maximizing the utility of their hardware.
 
 ## Join the Revolution
 
@@ -30,4 +35,4 @@ By joining the distillery subchain, users become part of a groundbreaking initia
 2. Participate in a decentralized AI infrastructure
 3. Potentially earn rewards in the process
 
-*Join us in democratizing AI and building the future of distributed computation!*
+_Join us in democratizing AI and building the future of distributed computation!_

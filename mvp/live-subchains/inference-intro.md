@@ -1,10 +1,13 @@
-# inference subchain
-
 ---
 description: >-
-  The Inference Subchain is a key component of the gintonic ecosystem that bridges developers with distributed AI inference capabilities. It offers a cost-efficient and scalable solution for running AI models, starting with the Mistral LLM.
+  The Inference Subchain is a key component of the gintonic ecosystem that
+  bridges developers with distributed AI inference capabilities. It offers a
+  cost-efficient and scalable solution for running AI
 ---
 
+# inference intro
+
+***
 
 ## Overview
 
@@ -25,17 +28,17 @@ This process leverages the distributed nature of the gintonic ecosystem to offer
 
 The Inference Subchain offers several key advantages for developers:
 
-- **Cost Efficiency**: Provides a more affordable alternative to traditional centralized cloud LLM services.
-- **Familiar Integration**: Offers an API similar to well-known services like AWS Bedrock or Google Vertex AI, ensuring a smooth transition for developers.
-- **Scalability**: Leverages the distributed nature of the gintonic ecosystem to handle varying loads efficiently.
-- **Access to Advanced Models**: Starting with the Mistral LLM, with plans to expand to other cutting-edge models in the future.
+* **Cost Efficiency**: Provides a more affordable alternative to traditional centralized cloud LLM services.
+* **Familiar Integration**: Offers an API similar to well-known services like AWS Bedrock or Google Vertex AI, ensuring a smooth transition for developers.
+* **Scalability**: Leverages the distributed nature of the gintonic ecosystem to handle varying loads efficiently.
+* **Access to Advanced Models**: Starting with the Mistral LLM, with plans to expand to other cutting-edge models in the future.
 
 ## Synergy with the Distillery Subnet
 
 The Inference Subchain works in close harmony with the distillery subnet:
 
-- While the distillery subnet manages the distributed processing of AI tasks, the Inference Subchain handles the developer-facing interactions.
-- This separation of concerns allows each subnet to optimize for its specific role, resulting in a more efficient and robust overall system.
+* While the distillery subnet manages the distributed processing of AI tasks, the Inference Subchain handles the developer-facing interactions.
+* This separation of concerns allows each subnet to optimize for its specific role, resulting in a more efficient and robust overall system.
 
 ## Empowering AI-Driven Innovation
 
@@ -45,4 +48,4 @@ By providing easy access to powerful AI capabilities, the Inference Subchain emp
 2. Experiment with advanced AI models without significant upfront investment
 3. Scale their AI-driven features alongside their application's growth
 
-*Join us in revolutionizing AI accessibility and unleash the power of distributed inference in your applications!*
+_Join us in revolutionizing AI accessibility and unleash the power of distributed inference in your applications!_
