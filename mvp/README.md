@@ -5,30 +5,48 @@ description: >-
   Gintonic's platform.
 ---
 
-# Overview
+# Gintonic Hub
 
-## Welcome to gintonic!
+Welcome to the Gintonic Hub, the central nervous system of our decentralized AI ecosystem. Here, you'll find everything you need to understand and leverage the power of Gintonic for your AI projects.
 
-Welcome to our unified decentralized AI ecosystem! Our platform is designed to transform the way AI is developed and deployed, providing a more efficient and streamlined approach to AI development. 
+## What is Gintonic?
 
-Our ecosystem leverages the power of blockchain technology to create a decentralized network of specialized subchains, each tailored for specific AI tasks and services. This allows us to provide high-performance, low-latency services for a wide range of AI applications.
+At its core, Gintonic is a Level 0 blockchain that serves as the foundation for a network of interconnected AI-focused subchains. Think of it as the backbone that allows various specialized AI services to communicate and work together seamlessly.
 
-By using specialized subchains, we can provide developers with access to the tools and resources they need to build and deploy AI models quickly and easily. Our platform also enables developers to monetize their AI services, creating new opportunities for innovation and growth in the AI industry.
+## The Power of Interconnected Subchains
 
-In addition to our specialized subchains, our platform also includes a range of tools and resources for AI development, including pre-trained models, datasets, and development frameworks. Our platform is designed to be flexible and scalable, allowing us to adapt to the ever-evolving needs of the AI industry.
+Gintonic's architecture is built on the idea that AI development is multifaceted and requires different specialized services. Instead of trying to cram everything into one chain, we've created a modular system where each subchain can focus on what it does best.
 
-## What is Mixtral?&#x20;
+Our Level 0 chain acts as a hub, enabling these subchains to:
+- Share data and resources efficiently
+- Maintain their own governance and upgrade schedules
+- Scale independently based on their specific needs
 
-**Mixtral** is a sparse mixture of experts (SMoE) model developed by Mistral AI. This model, specifically the [Mixtral-8x7B-Instruct](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1), features 45 billion parameters but performs inference as if it had only 13 billion active parameters. This allows for significantly faster and more efficient performance compared to larger models.
+This approach allows for a flexible, scalable, and robust AI ecosystem that can adapt to the rapidly evolving field of artificial intelligence.
 
-## What is configurtion?&#x20;
+## Subchains in Action
 
-**AI model configuration** is a set of parameters and settings that define the architecture and behaviour of an artificial neural network or other machine model used to solve artificial intelligence problems.
+While Gintonic supports a wide array of subchains, let's look at two key examples to illustrate how this works in practice:
 
-## What is fine-tuning?&#x20; 
+1. **Distillery Subchain**: This is where the raw power of AI computation is harnessed. It's a marketplace for GPU resources, allowing developers to access the computing power they need for training and running complex AI models.
 
-**Fine-tuning** is the process of adjusting a pre-trained machine learning model to improve its performance on a specific task. In fine tuning, a pre-trained model is used as a starting point and its parameters are adjusted to better match the target task data
+2. **Inference Subchain**: Once models are trained, they need to be deployed and used. The Inference subchain specializes in fast, efficient model execution, making it possible to use AI models in real-time applications.
 
+These subchains, while specializing in different areas, can work together seamlessly thanks to the Gintonic Level 0 blockchain. For instance, a model trained using resources from the Distillery subchain can be easily deployed for inference, with the Level 0 chain facilitating the necessary data and state transfers.
+
+## Getting Started
+
+Ready to dive in? Here's how you can start exploring and using Gintonic:
+
+1. **Explore the Subchains**: Take a look at our [Subchain Directory](link-to-directory) to see what specialized services are available.
+
+2. **Set Up Your Environment**: Check out our [Quick Start Guide](link-to-guide) to set up your development environment for interacting with Gintonic.
+
+3. **Join the Community**: Hop into our [Discord](link-to-discord) or [Forum](link-to-forum) to connect with other developers and get help.
+
+Remember, Gintonic is more than just a platform – it's a community-driven ecosystem. Your participation and feedback help shape the future of decentralized AI development.
+
+Let's build the future of AI together!
 ## Quick Links
 
 [gintonic](https://console.gintonic.ai/)
