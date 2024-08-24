@@ -3,6 +3,7 @@ description: >-
   Gintonic is organized into several layers, each comprising various subchains
   that serve specific purposes in the AI development process. Here is an
   overview of the layers and their respective subchai.
+hidden: true
 ---
 
 # Layer Structure
