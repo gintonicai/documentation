@@ -4,25 +4,9 @@
 
 Now that your node is up and running, earning you $GIN, it's important to keep an eye on its performance and health. This section will show you how to monitor your node, understand its status, and perform basic maintenance tasks.
 
-### Checking Node Status
-
-Want to see how your node is doing? It's easy:
-
-1. Visit our [Node Monitor Page](https://petals-monitor.sfxdx.com/)
-2. Find your node using your wallet address or Peer ID
-
-Here's what you'll see:
-
-* **Status**: Online/Offline
-* **Uptime**: How long your node has been running
-* **Tasks Completed**: Number of tasks your node has processed
-* **Current Load**: How hard your GPU is working right now
-
-{% hint style="info" %}
-The monitor page updates every few minutes. If you've just started your node, it might take a little while to show up.
-{% endhint %}
-
 ### Accessing and Understanding Logs
+
+
 
 Logs are like your node's diary - they record everything that happens. Here's how to read them:
 
@@ -69,10 +53,10 @@ Remember, your node only earns $GIN when it's online and processing tasks. Try t
 
 Your Gintonic client can be stopped in several ways:
 
-- Using the docker stop command (as shown above)
-- Manually killing the process
-- Restarting or shutting down your machine
-- Using the CTRL+C keyboard shortcut if running in an interactive terminal
+* Using the docker stop command (as shown above)
+* Manually killing the process
+* Restarting or shutting down your machine
+* Using the CTRL+C keyboard shortcut if running in an interactive terminal
 
 Regardless of how it's stopped, you can always restart your node using the docker start command provided earlier.
 
