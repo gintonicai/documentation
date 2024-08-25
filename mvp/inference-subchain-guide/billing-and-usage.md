@@ -24,6 +24,10 @@ In the world of Gintonic, GIN tokens are your currency. Here's what you need to 
 
 Pro Tip: Keep an eye on your token usage to estimate costs. A typical conversation turn uses about 500-1500 AI tokens.
 
+#### Depositing Funds
+
+To deposit funds, call the 'deposit' endpoint of the GIN token smart contract. This process allows you to add GIN tokens to your account balance.
+
 ### Viewing Your Balance
 
 Staying on top of your balance is easy:
@@ -93,6 +97,8 @@ When your balance hits 0:
 * The 'save & apply', 'create & apply', and 'load' buttons are deactivated
 
 Don't worry, though. As soon as you top up, everything will be back to normal!
+
+
 
 ### Billing FAQ
 

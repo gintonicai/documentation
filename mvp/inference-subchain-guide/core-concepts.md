@@ -48,6 +48,13 @@ Mistral is our first supported model, and it's a powerhouse. It's great for:
 
 We're not stopping there, though. We've got plans to add more cutting-edge models to our lineup. Stay tuned!
 
+#### Model Configuration Parameters
+
+* **Repetition Penalty**: Encourages more diverse text by penalizing the use of duplicate tokens. This helps reduce repetition in the model's output. The optimal value is often around 1.2, but you can adjust it as needed.
+* **Top P**: Limits the selection of words to a certain accumulated probability threshold. For example, if top\_p is 0.5, only the most probable words whose cumulative probability exceeds 0.5 will be considered.
+
+These parameters help the model generate more plausible and varied texts by avoiding unlikely or overly predictable words.
+
 ### Understanding Tokens
 
 When you're using the Inference Subchain, you'll hear a lot about "tokens". Here's the lowdown:
