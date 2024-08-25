@@ -50,9 +50,9 @@ These GPUs are widely supported and provide the best performance for running dis
 While it's possible to run on other setups, we've optimized for these specifications. Your mileage may vary with different configurations.
 {% endhint %}
 
-### Creating a Gintonic Distillery Account
+### Creating a gintonic Distillery Account
 
-Before setting up your node, you'll need to create a Gintonic Distillery account:
+Before setting up your node, you'll need to create a gintonic Distillery account:
 
 1. Visit [https://console.gintonic.ai/distillery](https://console.gintonic.ai/distillery)
 2. Click on the "Sign Up" button
@@ -63,7 +63,7 @@ Before setting up your node, you'll need to create a Gintonic Distillery account
 4. Read and accept the Terms of Service and Privacy Policy
 5. Click "Create Account"
 6. Verify your email address by clicking the link sent to your inbox
-7. Once verified, log in to your new Gintonic Distillery account
+7. Once verified, log in to your new gintonic Distillery account
 
 {% hint style="info" %}
 Keep your account credentials safe and secure. You'll need them to manage your node and access your earnings.
@@ -99,22 +99,22 @@ Keep your account credentials safe and secure. You'll need them to manage your n
 
     Grab our Docker image:
 
-    ````bash
-    ```bash
-    ````
+    
+    ```bash    
 
-docker pull gintonic/distillery:latest \`\`\` 5. **Set up your wallet**
+    docker pull gintonic/distillery:latest 
+    ```
+5. **Set up your wallet**
 
-```
-You'll need an Ethereum-compatible wallet to receive your $GIN. \
-If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
-```
+    You'll need an Ethereum-compatible wallet to receive your $GIN. \
+    If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
 
-6\. **You'll also need to:**
 
-1. Create an account on [HuggingFace](https://huggingface.co/)
-2. Create an Access Token in your HuggingFace account settings
-3. Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+6. **Set up HuggingFace**
+
+    - Create an account on [HuggingFace](https://huggingface.co/)
+    - Create an Access Token in your HuggingFace account settings
+    - Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
 ### Setting Up Your Environment
 

@@ -34,7 +34,7 @@ graph LR
 
 ### The Secret Sauce: [Distillery Subnet](../live-subchains/distillery-intro.md)
 
-The distillery subnet is what sets us apart from traditional, centralized AI services. It's a network of distributed GPU nodes that work together to process your requests. Here's why it's awesome:
+The distillery subchain is what sets us apart from traditional, centralized AI services. It's a network of distributed GPU nodes that work together to process your requests. Here's why it's awesome:
 
 * **Cost-Efficient**: We only use the resources we need, when we need them. No idle servers eating up costs.
 * **Scalable**: Need more power? The network can easily expand to meet demand.
@@ -80,7 +80,7 @@ Let's walk through a typical request:
 
 1. You send a prompt to generate a story about _a robot learning to paint_.
 2. The inference subchain receives your request and tokenizes it.
-3. The request is routed to the [distillery subnet](../live-subchains/distillery-intro.md).
+3. The request is routed to the [distillery subchain](../live-subchains/distillery-intro.md).
 4. Multiple GPU nodes work together to process your request using the Mistral LLM.
 5. The generated story is sent back to you.
 

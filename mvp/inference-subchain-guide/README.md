@@ -26,7 +26,7 @@ The inference subchain is a crucial component of the gintonic ecosystem. It's de
 Here's the TL;DR:
 
 1. You send an inference request through our API.
-2. We route it to our distillery subnet (our secret sauce for distributed processing).
+2. We route it to our distillery subchain (our secret sauce for distributed processing).
 3. A network of GPU-powered nodes crunches the numbers.
 4. You get back the results, fast and cheap.
 

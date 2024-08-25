@@ -22,8 +22,8 @@ Visit the the[ inference subchain guide](../inference-subchain-guide/) to get st
 At its core, the inference subchain acts as an intelligent intermediary:
 
 1. It receives inference requests from developers through a standardized API.
-2. These requests are then efficiently routed to the distillery subnet.
-3. The distillery subnet distributes the computational tasks across its network of GPU-powered nodes.
+2. These requests are then efficiently routed to the distillery subchain.
+3. The distillery subchain distributes the computational tasks across its network of GPU-powered nodes.
 4. Once processed, the results are returned to the inference subchain, which then delivers them back to the developer.
 
 This process leverages the distributed nature of the gintonic ecosystem to offer high-performance AI inference without the need for developers to manage complex infrastructure.
@@ -39,10 +39,10 @@ The inference subchain offers several key advantages for developers:
 
 ## Synergy with the Distillery Subnet
 
-The inference subchain works in close harmony with the distillery subnet:
+The inference subchain works in close harmony with the distillery subchain:
 
-* While the distillery subnet manages the distributed processing of AI tasks, the inference subchain handles the developer-facing interactions.
-* This separation of concerns allows each subnet to optimize for its specific role, resulting in a more efficient and robust overall system.
+* While the distillery subchain manages the distributed processing of AI tasks, the inference subchain handles the developer-facing interactions.
+* This separation of concerns allows each subchain to optimize for its specific role, resulting in a more efficient and robust overall system.
 
 ## Empowering AI-Driven Innovation
 
