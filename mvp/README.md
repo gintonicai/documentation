@@ -2,7 +2,7 @@
 description: >-
   Explore the gintonic ecosystem, a decentralized AI platform leveraging
   blockchain technology. Learn about our specialized subchains for AI tasks, the
-  GIN token economy, and how we're revolutionizing A
+  $GIN token economy, and how we're revolutionizing A
 ---
 
 # gintonic hub

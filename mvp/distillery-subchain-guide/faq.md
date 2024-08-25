@@ -10,7 +10,7 @@ Welcome to the FAQ section of the gintonic Distillery documentation. Here, we've
 
 #### Q: What exactly is gintonic Distillery?
 
-> gintonic Distillery is a decentralized platform that allows GPU owners to contribute their computing power to AI tasks in exchange for $GIN tokens. It's like mining for cryptocurrency, but instead of solving arbitrary puzzles, your GPU is helping to advance AI technology.
+> gintonic Distillery is a decentralized platform that allows GPU owners to contribute their computing power to AI tasks in exchange for $GIN. It's like mining for cryptocurrency, but instead of solving arbitrary puzzles, your GPU is helping to advance AI technology.
 
 #### Q: Do I need to be a tech expert to run a gintonic node?
 

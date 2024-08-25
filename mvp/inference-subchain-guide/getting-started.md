@@ -17,7 +17,7 @@ Before you start firing off API requests, make sure you've got these basics cove
 3. **Wallet Setup**: You'll need a blockchain wallet to handle transactions on the platform.
    * We recommend using MetaMask. If you don't have it, grab it from [metamask.io](https://metamask.io/)
    * Once installed, connect your wallet to the gintonic platform
-4. **GIN Tokens**: Make sure you have some GIN tokens in your wallet. These are used to pay for inference requests.
+4. **$GIN**: Make sure you have some $GIN in your wallet. These are used to pay for inference requests.
 
 ### System Requirements
 

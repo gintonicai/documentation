@@ -8,17 +8,17 @@ Let's talk money. We know you're here for the AI magic, but understanding how bi
 
 We're all about flexibility here at gintonic. Our pay-as-you-go model means you only pay for what you use. No hefty upfront costs or monthly commitments. Here's how it works:
 
-1. **Deposit GIN Tokens**: Top up your account with GIN tokens.
+1. **Deposit $GIN**: Top up your account with $GIN.
 2. **Use the Service**: Make API calls to your heart's content.
-3. **Automatic Deduction**: We deduct GIN tokens based on your usage.
+3. **Automatic Deduction**: We deduct $GIN based on your usage.
 
 Simple, right? Now, let's break it down further.
 
 ### Token Economics
 
-In the world of gintonic, GIN tokens are your currency. Here's what you need to know:
+In the world of gintonic, $GIN are your currency. Here's what you need to know:
 
-* **1 GIN Token** = 1,000,000AI tokens
+* **1 $GIN Token** = 1,000,000AI tokens
 * **AI Tokens**: These are the units used to measure the length of input and output text.
 * **Pricing**: Check our pricing page for the most up-to-date rates.
 
@@ -26,7 +26,7 @@ Pro Tip: Keep an eye on your token usage to estimate costs. A typical conversati
 
 #### Depositing Funds
 
-To deposit funds, call the 'deposit' endpoint of the GIN token smart contract. This process allows you to add GIN tokens to your account balance.
+To deposit funds, call the 'deposit' endpoint of the $GIN token smart contract. This process allows you to add $GIN to your account balance.
 
 ### Viewing Your Balance
 
@@ -43,7 +43,7 @@ from gintonic import InferenceClient
 
 client = InferenceClient(api_key="your_api_key_here")
 balance = client.get_balance()
-print(f"Current balance: {balance} GIN tokens")
+print(f"Current balance: {balance} $GIN")
 ```
 
 ### Managing Your Balance
@@ -57,7 +57,7 @@ Running low? No problem. Here's how to add funds:
 3. Choose the amount you want to add
 4. Complete the transaction using MetaMask
 
-Remember, GIN tokens are blockchain-based. Make sure you have enough ETH in your wallet to cover gas fees!
+Remember, $GIN are blockchain-based. Make sure you have enough ETH in your wallet to cover gas fees!
 
 #### Auto-Recharge
 
@@ -71,7 +71,7 @@ Now your account will automatically top up when it hits the threshold. Magic!
 
 #### Depositing Funds
 
-To deposit funds, call the 'deposit' endpoint of the GIN token smart contract. This process allows you to add GIN tokens to your account balance.
+To deposit funds, call the 'deposit' endpoint of the $GIN token smart contract. This process allows you to add $GIN to your account balance.
 
 ### Understanding Your Usage
 

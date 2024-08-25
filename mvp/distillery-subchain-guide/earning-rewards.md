@@ -2,7 +2,7 @@
 
 ## Earning Rewards on the gintonic Network
 
-You've set up your node, joined the network, and now your GPU is humming away, contributing to AI tasks. But how exactly do you earn those sweet $GIN tokens? Let's break it down.
+You've set up your node, joined the network, and now your GPU is humming away, contributing to AI tasks. But how exactly do you earn those sweet $GIN? Let's break it down.
 
 ### How Rewards are Calculated
 

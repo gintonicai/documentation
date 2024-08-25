@@ -52,7 +52,7 @@ While it's possible to run on other setups, we've optimized for these specificat
     ```
 5.  **Set up your wallet**
 
-    You'll need an Ethereum-compatible wallet to receive your $GIN tokens. \
+    You'll need an Ethereum-compatible wallet to receive your $GIN. \
     If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
 6. **You'll also need to:**
    1. Create an account on [HuggingFace](https://huggingface.co/)

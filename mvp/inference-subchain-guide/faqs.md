@@ -63,7 +63,7 @@ def send_with_backoff(client, chat_id, message, max_retries=5):
 
 #### Q: How does billing work?
 
-**A:** We use a pay-as-you-go model based on GIN tokens. 1 GIN token is roughly equivalent to 1000 AI tokens. Check our Billing and Usage page for more details.
+**A:** We use a pay-as-you-go model based on $GIN. 1 $GIN token is roughly equivalent to 1000 AI tokens. Check our Billing and Usage page for more details.
 
 #### Q: What happens if I run out of tokens?
 
@@ -71,7 +71,7 @@ def send_with_backoff(client, chat_id, message, max_retries=5):
 
 #### Q: Do unused tokens expire?
 
-**A:** Nope! Your GIN tokens don't have an expiration date. They'll be there waiting for you when you need them.
+**A:** Nope! Your $GIN don't have an expiration date. They'll be there waiting for you when you need them.
 
 #### Q: Can I set a spending limit?
 

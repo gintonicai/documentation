@@ -38,7 +38,7 @@ A specialized processor originally designed to accelerate graphics rendering. In
 
 #### $GIN
 
-The native cryptocurrency of the gintonic network. You earn $GIN tokens as rewards for contributing your GPU's computing power.
+The native cryptocurrency of the gintonic network. You earn $GIN as rewards for contributing your GPU's computing power.
 
 ### I
 

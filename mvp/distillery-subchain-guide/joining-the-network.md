@@ -2,7 +2,7 @@
 
 ## Joining the Compute Mining Network
 
-Congratulations on setting up your gintonic Distillery node! Now it's time to connect to the network and start earning those $GIN tokens. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
+Congratulations on setting up your gintonic Distillery node! Now it's time to connect to the network and start earning those $GIN. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
 
 ### Providing Your Public Address
 
@@ -51,7 +51,7 @@ In the world of decentralized networks, identities work a bit differently. Let's
 Here's why this matters:
 
 1. The network uses your Peer ID to assign tasks and track your node's performance
-2. We use your Public Address to know where to send your hard-earned $GIN tokens
+2. We use your Public Address to know where to send your hard-earned $GIN
 3. This two-part identity helps keep the network secure and your rewards safe
 
 {% hint style="info" %}
@@ -72,4 +72,4 @@ Want to make sure everything's running smoothly? Here's how to check:
 
 If you see that message, congratulations! Your GPU is now part of the gintonic swarm, ready to take on AI tasks and earn you some $GIN.
 
-In the next section, we'll cover how rewards are calculated and how to check your earnings. Get ready to watch those $GIN tokens roll in!
+In the next section, we'll cover how rewards are calculated and how to check your earnings. Get ready to watch those $GIN roll in!
