@@ -29,7 +29,8 @@ Even the smoothest-running machines hit a snag now and then. Don't worry - we've
 2.  Ensure you have the latest image:
 
     ```bash
-    docker pull gintonic/distillery:latest
+    ```bash
+docker pull gintonic/distillery:latest
     ```
 3.  Check your `gintonic-config.json` file for errors:
 

@@ -86,7 +86,8 @@ We're constantly improving gintonic. To get the latest version:
 3.  Pull the latest image:
 
     ```bash
-    docker pull gintonic/distillery:latest
+    ```bash
+docker pull gintonic/distillery:latest
     ```
 4.  Start a new container:
 

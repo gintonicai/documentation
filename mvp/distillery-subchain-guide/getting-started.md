@@ -48,7 +48,8 @@ While it's possible to run on other setups, we've optimized for these specificat
     Grab our Docker image:
 
     ```bash
-    docker pull gintonic/distillery:latest
+    ```bash
+docker pull gintonic/distillery:latest
     ```
 5.  **Set up your wallet**
 
