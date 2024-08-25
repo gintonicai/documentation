@@ -24,7 +24,9 @@ The distillery subchain is part of the larger gintonic ecosystem, which aims to 
 3. **Your GPU does its thing**: It crunches a portion of the larger task.
 4. **You earn rewards**: Based on your contribution, you receive $GIN.
 
+{% hint style="info" %}
 It's like mining for $BTC, but instead of solving arbitrary cryptographic puzzles, your GPU is contributing to real AI advancements.
+{% endhint %}
 
 ### Why Join?
 

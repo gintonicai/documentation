@@ -13,7 +13,11 @@ description: >-
 
 ### Overview
 
-The **gintonic PrivateAI Subchain** serves as a decentralized protocol designed to empower data owners and producers in the AI ecosystem. By leveraging blockchain technology, this subchain ensures data privacy, secure transactions, and transparent data sharing, creating a trusted environment for AI-driven analytics and data services.
+The **gintonic** [**PrivateAI Subchain**](https://www.privateai.com/) serves as a decentralized protocol designed to empower data owners and producers in the AI ecosystem. By leveraging blockchain technology, this subchain ensures data privacy, secure transactions, and transparent data sharing, creating a trusted environment for AI-driven analytics and data services.
+
+{% hint style="info" %}
+Visit PrivateAI subchain guide to get started
+{% endhint %}
 
 ### How It Works
 

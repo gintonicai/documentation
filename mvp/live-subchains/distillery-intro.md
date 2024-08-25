@@ -11,6 +11,12 @@ description: >-
 
 A **gintonic distillery subchain** forms the backbone of distributed AI inference within the gintonic ecosystem. Leveraging the innovative [Petals framework](https://arxiv.org/abs/2209.01188), this subchain enables a network of GPU-powered nodes to collaboratively process large language models, making advanced AI capabilities accessible to a wider audience.
 
+
+
+{% hint style="info" %}
+Visit [distillery subchain guide](../distillery-subchain-guide/) to get started!
+{% endhint %}
+
 ## How It Works
 
 At its core, the distillery subchain allows individuals and organizations to contribute their GPU resources to a decentralized network. These "distillers" receive blocks of inference tasks, which their GPUs process as part of a larger, distributed AI model. This approach breaks down the computational barriers that typically restrict access to state-of-the-art AI models, democratizing AI inference.
@@ -33,4 +39,7 @@ By joining the distillery subchain, users become part of a groundbreaking initia
 2. Participate in a decentralized AI infrastructure
 3. Potentially earn rewards in the process
 
+Visit [distillery subchain guide](../distillery-subchain-guide/) to get started!
+
 _Join us in democratizing AI and building the future of distributed computation!_
+

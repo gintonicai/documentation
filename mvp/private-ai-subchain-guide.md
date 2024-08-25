@@ -7,6 +7,4 @@ description: >-
 
 # Private AI subchain guide
 
-
-
-{% embed url="https://docs.private-ai.com/introduction/" %}
+{% embed url="https://www.privateai.com/" %}

@@ -30,9 +30,9 @@ Before setting up your node, you'll need to create a Gintonic Distillery account
 1. Visit [https://console.gintonic.ai/distillery](https://console.gintonic.ai/distillery)
 2. Click on the "Sign Up" button
 3. Fill in the required information:
-   - Email address
-   - Password (make sure it's strong and unique)
-   - Confirm password
+   * Email address
+   * Password (make sure it's strong and unique)
+   * Confirm password
 4. Read and accept the Terms of Service and Privacy Policy
 5. Click "Create Account"
 6. Verify your email address by clicking the link sent to your inbox
@@ -114,7 +114,7 @@ If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure 
 And that's it! Your GPU is now part of the gintonic network, ready to crunch some AI tasks and earn you some $GIN.
 
 {% hint style="info" %}
-**First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community \[Discord Channel]\(https://discord.gg/sGkz4RHz).
+**First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community [Discord Channel](https://discord.gg/sGkz4RHz).
 {% endhint %}
 
 In the next section, we'll cover how to monitor your node and track your earnings. Happy distilling!

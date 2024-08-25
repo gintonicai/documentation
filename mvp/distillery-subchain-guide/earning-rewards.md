@@ -8,11 +8,11 @@ description: >-
 
 ## Earning Rewards on the gintonic Network
 
-You've set up your node, joined the network, and now your GPU is humming away, contributing to AI tasks. But how exactly do you earn those sweet $GIN? Let's break it down.
+You've set up your node, joined the network, and now your GPU is humming away, contributing to AI tasks. But how exactly do you distill $GIN? Let's break it down.
 
 ### How Rewards are Calculated
 
-Earning $GIN isn't about luck or solving random puzzles. It's directly tied to the work your GPU does. Here's a simplified look at how it works:
+Distilling $GIN isn't about luck or solving random puzzles. It's directly tied to the work your GPU does. Here's a simplified look at how it works:
 
 1. **Job Assignment**: The network receives AI processing jobs and divides them into smaller tasks.
 2. **Work Distribution**: Your node gets a piece of the action based on its availability and capabilities.
@@ -29,7 +29,7 @@ Reward = (Job_Price - System_Fee) * (Your_Blocks / Total_Job_Blocks)
 Where:
 
 * `Job_Price` is currently set at 1 $GIN per message processed
-* `System_Fee` is a small 0.1% fee (0.001 $GIN) for network maintenance
+* `System_Fee` is a small 1% fee for network maintenance
 * `Your_Blocks` is the number of blocks your GPU processed
 * `Total_Job_Blocks` is the total size of the job
 
@@ -61,7 +61,7 @@ These addresses are managed by the gintonic system. As a node operator, you only
 
 Curious about how much you've earned? Here's how to check:
 
-1. Visit the [gintonic Distillery Account](https://console.gintonic.ai/distillery) 
+1. Visit the [gintonic Distillery Account](https://console.gintonic.ai/distillery)
 2. Connect your wallet (the same one you used to set up your node)
 3. You'll see your current $GIN balance and a history of your earnings
 
@@ -86,7 +86,7 @@ Remember, blockchain transactions incur small fees. Make sure you're withdrawing
 
 ### Maximizing Your Rewards
 
-Want to earn more $GIN? Here are some tips:
+Want to distill more $GIN? Here are some tips:
 
 * **Keep your node online**: The more your GPU is available, the more tasks it can complete.
 * **Upgrade your hardware**: Better GPUs can handle more complex tasks, potentially earning more.

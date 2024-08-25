@@ -32,7 +32,7 @@ graph LR
 4. **Processing**: Each node crunches its part of the task. It's like a bunch of mini-brains working together on your problem.
 5. **Response Aggregation**: The inference subchain collects all the pieces, puts them back together, and sends you the final result.
 
-### The Secret Sauce: Distillery Subnet
+### The Secret Sauce: [Distillery Subnet](../live-subchains/distillery-intro.md)
 
 The distillery subnet is what sets us apart from traditional, centralized AI services. It's a network of distributed GPU nodes that work together to process your requests. Here's why it's awesome:
 
@@ -44,7 +44,7 @@ The distillery subnet is what sets us apart from traditional, centralized AI ser
 
 We're starting with a bang:
 
-#### Mistral LLM
+#### [Mistral LLM](https://docs.mistral.ai/)
 
 Mistral is our first supported model, and it's a powerhouse. It's great for:
 
@@ -70,15 +70,17 @@ When you're using the inference subchain, you'll hear a lot about "tokens". Here
 * Both your input and the model's output are measured in tokens.
 * The more tokens, the more processing power needed (and the more it costs).
 
-Pro tip: Keep an eye on your token usage to optimize your costs. We provide tools to help you track this - check out the Billing and Usage section for more info.
+{% hint style="info" %}
+Keep an eye on your token usage to optimize your costs. We provide tools to help you track this - check out the [Billing and Usage](billing-and-usage.md) section for more info.
+{% endhint %}
 
 ### Putting It All Together
 
 Let's walk through a typical request:
 
-1. You send a prompt to generate a story about a robot learning to paint.
+1. You send a prompt to generate a story about _a robot learning to paint_.
 2. The inference subchain receives your request and tokenizes it.
-3. The request is routed to the distillery subnet.
+3. The request is routed to the [distillery subnet](../live-subchains/distillery-intro.md).
 4. Multiple GPU nodes work together to process your request using the Mistral LLM.
 5. The generated story is sent back to you.
 
@@ -92,4 +94,4 @@ Now that you've got a handle on the core concepts, you're ready to dive deeper:
 * Learn some Best Practices to get the most out of the service.
 * Curious about the nitty-gritty details? Our Advanced Topics section is for you.
 
-Remember, we're here to make AI accessible and affordable. If anything's still unclear, drop us a line. Happy inferencing!
+Remember, we're here to make AI accessible and affordable. If anything's still unclear, drop us a line in [Discord](https://discord.gg/hm6PYe5W). Happy inferencing!

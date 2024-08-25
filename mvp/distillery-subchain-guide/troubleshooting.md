@@ -6,7 +6,7 @@ description: >-
 
 # Troubleshooting
 
-## Troubleshooting Your gintonic Distillery Node
+## Troubleshooting Your gintonic distillery Node
 
 Even the smoothest-running machines hit a snag now and then. Don't worry - we've got you covered. This section will walk you through common issues and their solutions, helping you get back to earning $GIN in no time.
 
@@ -32,13 +32,13 @@ Even the smoothest-running machines hit a snag now and then. Don't worry - we've
     ```bash
     sudo systemctl start docker
     ```
-2.  Ensure you have the latest image:
+2. Ensure you have the latest image:
+3.
 
-    ````bash
     ```bash
-    ````
-
-docker pull gintonic/distillery:latest \`\`\` 3. Check your `gintonic-config.json` file for errors:
+    docker pull gintonic/distillery:latest
+    :
+    ```
 
 ````
 ```bash
@@ -118,7 +118,6 @@ Here are some common error messages you might see in your logs, and what they me
 ### When to Seek Help
 
 If you've tried the solutions above and are still having issues, it's time to reach out. Here's where to get help:
-
 
 **Discord Channel**: Join our \[Discord Channel]\(https://discord.gg/sGkz4RHz) and post in the #node-help channel. Our team and community members actively monitor this.
 

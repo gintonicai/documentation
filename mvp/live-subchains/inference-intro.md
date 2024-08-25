@@ -13,6 +13,10 @@ description: >-
 
 The **gintonic inference subchain** serves as a crucial interface between developers and the powerful distributed AI infrastructure of the gintonic ecosystem. This subchain provides a seamless API layer that allows developers to harness the capabilities of large language models, beginning with the Mistral LLM, in a cost-effective and scalable manner.
 
+{% hint style="info" %}
+Visit the the[ inference subchain guide](../inference-subchain-guide/) to get started!
+{% endhint %}
+
 ## How It Works
 
 At its core, the inference subchain acts as an intelligent intermediary:
@@ -47,5 +51,7 @@ By providing easy access to powerful AI capabilities, the inference subchain emp
 1. Build more intelligent and responsive applications
 2. Experiment with advanced AI models without significant upfront investment
 3. Scale their AI-driven features alongside their application's growth
+
+Visit the the[ inference subchain guide](../inference-subchain-guide/) to get started!
 
 _Join us in revolutionizing AI accessibility and unleash the power of distributed inference in your applications!_

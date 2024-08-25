@@ -215,6 +215,6 @@ Exceeding these limits will result in a `429` error. If you need higher limits, 
 | v1.0    | 2024-08-01 | Initial release                          |
 | v1.1    | 2024-08-15 | Added support for longer context windows |
 
-That's the rundown of our API! If you're looking to optimize your usage or dive into more advanced topics, check out our Best Practices guide.
+That's the rundown of our API! If you're looking to optimize your usage or dive into more advanced topics, check out our [Best Practices](api-reference.md#best-practices) guide.
 
 Remember, we're here to make AI inference a breeze. If you run into any snags or have questions, don't hesitate to reach out. Happy coding!

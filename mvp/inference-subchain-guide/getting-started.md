@@ -49,7 +49,7 @@ Before you begin, ensure your system meets the following minimum requirements:
 
 To set up the inference subchain on your system:
 
-1. Download the installer from [this link](https://thinkchain-backend.sfxdx.com/distillery-download) (Note: This link may be updated periodically)
+1. Download the installer from [this link](https://thinkchain-backend.sfxdx.com/distillery-download)&#x20;
 2. Run the installer. It will automatically:
    * Install additional dependencies not specified in the prerequisites
    * Create a worker that connects to the required swarm
