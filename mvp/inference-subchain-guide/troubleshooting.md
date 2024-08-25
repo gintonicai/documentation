@@ -1,6 +1,6 @@
 ---
 description: >-
-  Find solutions to common issues with the gintonic Inference Subchain. Learn
+  Find solutions to common issues with the gintonic inference subchain. Learn
   debugging techniques and get answers to frequently encountered problems.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Troubleshooting
 
-Even the smoothest systems hit a bump now and then. When that happens, we've got your back. This guide will help you diagnose and solve common issues you might encounter while using the Inference Subchain.
+Even the smoothest systems hit a bump now and then. When that happens, we've got your back. This guide will help you diagnose and solve common issues you might encounter while using the inference subchain.
 
 ### Common Issues and Solutions
 
@@ -168,4 +168,4 @@ Remember to include as much relevant information as possible:
 * Any error messages you're receiving
 * Steps to reproduce the problem
 
-We're committed to providing a smooth experience with the Inference Subchain. Your feedback helps us improve, so don't be shy about reporting issues or suggesting improvements!
+We're committed to providing a smooth experience with the inference subchain. Your feedback helps us improve, so don't be shy about reporting issues or suggesting improvements!

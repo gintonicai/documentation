@@ -1,23 +1,23 @@
 ---
 description: >-
-  Dive into the fundamental concepts of the gintonic Inference Subchain.
+  Dive into the fundamental concepts of the gintonic inference subchain.
   Understand how it works, its architecture, and key components for effective
   usage.
 ---
 
 # Core Concepts
 
-## Core Concepts of the Inference Subchain
+## Core Concepts of the inference subchain
 
-Let's pull back the curtain and take a peek at what makes the Inference Subchain tick. Don't worry, we won't get too deep into the weeds - just enough to give you a solid understanding of how your requests turn into AI-powered responses.
+Let's pull back the curtain and take a peek at what makes the inference subchain tick. Don't worry, we won't get too deep into the weeds - just enough to give you a solid understanding of how your requests turn into AI-powered responses.
 
 ### The Big Picture
 
-At its heart, the Inference Subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger gintonic ecosystem:
+At its heart, the inference subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger gintonic ecosystem:
 
 ```mermaid
 graph LR
-    A[Your App] --> B[Inference Subchain API]
+    A[Your App] --> B[inference subchain API]
     B --> C[Distillery Subnet]
     C --> D[GPU Node 1]
     C --> E[GPU Node 2]
@@ -27,10 +27,10 @@ graph LR
 ### How It Works
 
 1. **API Layer**: This is where you come in. You send requests to our API, just like you would with any other cloud AI service.
-2. **Request Routing**: The Inference Subchain takes your request and figures out the best way to process it. It's like a traffic cop for AI tasks.
+2. **Request Routing**: The inference subchain takes your request and figures out the best way to process it. It's like a traffic cop for AI tasks.
 3. **Distillery Subnet**: This is where the magic happens. Your request gets broken down and distributed across a network of GPU-powered nodes.
 4. **Processing**: Each node crunches its part of the task. It's like a bunch of mini-brains working together on your problem.
-5. **Response Aggregation**: The Inference Subchain collects all the pieces, puts them back together, and sends you the final result.
+5. **Response Aggregation**: The inference subchain collects all the pieces, puts them back together, and sends you the final result.
 
 ### The Secret Sauce: Distillery Subnet
 
@@ -64,7 +64,7 @@ These parameters help the model generate more plausible and varied texts by avoi
 
 ### Understanding Tokens
 
-When you're using the Inference Subchain, you'll hear a lot about "tokens". Here's the lowdown:
+When you're using the inference subchain, you'll hear a lot about "tokens". Here's the lowdown:
 
 * A token is roughly equivalent to 4 characters or 0.75 words.
 * Both your input and the model's output are measured in tokens.
@@ -77,7 +77,7 @@ Pro tip: Keep an eye on your token usage to optimize your costs. We provide tool
 Let's walk through a typical request:
 
 1. You send a prompt to generate a story about a robot learning to paint.
-2. The Inference Subchain receives your request and tokenizes it.
+2. The inference subchain receives your request and tokenizes it.
 3. The request is routed to the distillery subnet.
 4. Multiple GPU nodes work together to process your request using the Mistral LLM.
 5. The generated story is sent back to you.
@@ -88,7 +88,7 @@ All of this happens in seconds, and you only pay for the tokens you use.
 
 Now that you've got a handle on the core concepts, you're ready to dive deeper:
 
-* Check out our API Reference to see all the ways you can interact with the Inference Subchain.
+* Check out our API Reference to see all the ways you can interact with the inference subchain.
 * Learn some Best Practices to get the most out of the service.
 * Curious about the nitty-gritty details? Our Advanced Topics section is for you.
 

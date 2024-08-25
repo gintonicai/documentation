@@ -29,8 +29,8 @@ This approach allows for a flexible, scalable, and robust AI ecosystem that can 
 
 While gintonic supports a wide array of subchains, let's look at two key examples to illustrate how this works in practice:
 
-1. **Distillery Subchain**: This is where the raw power of AI computation is harnessed. It's a marketplace for GPU resources, allowing developers to access the computing power they need for training and running complex AI models.
-2. **Inference Subchain**: Once models are trained, they need to be deployed and used. The Inference subchain specializes in fast, efficient model execution, making it possible to use AI models in real-time applications.
+1. **distillery subchain**: This is where the raw power of AI computation is harnessed. It's a marketplace for GPU resources, allowing developers to access the computing power they need for training and running complex AI models.
+2. **inference subchain**: Once models are trained, they need to be deployed and used. The Inference subchain specializes in fast, efficient model execution, making it possible to use AI models in real-time applications.
 
 These subchains, while specializing in different areas, can work together seamlessly thanks to the gintonic Level 0 blockchain. For instance, a model trained using resources from the Distillery subchain can be easily deployed for inference, with the Level 0 chain facilitating the necessary data and state transfers.
 

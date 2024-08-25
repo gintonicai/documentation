@@ -1,15 +1,15 @@
 ---
 description: >-
-  Optimize your use of the gintonic Inference Subchain with expert tips. Learn
+  Optimize your use of the gintonic inference subchain with expert tips. Learn
   strategies for efficient API usage, error handling, and performance
   improvement.
 ---
 
 # Best Practices
 
-## Best Practices for the Inference Subchain
+## Best Practices for the inference subchain
 
-Welcome to the insider's guide to getting the most out of the Inference Subchain. Whether you're looking to optimize performance, reduce costs, or just write better prompts, we've got you covered. Let's dive into some pro tips!
+Welcome to the insider's guide to getting the most out of the inference subchain. Whether you're looking to optimize performance, reduce costs, or just write better prompts, we've got you covered. Let's dive into some pro tips!
 
 ### 1. Optimize Your Prompts
 
@@ -125,7 +125,7 @@ Get the most bang for your buck:
 * **Batch Process**: When possible, batch your requests to reduce overall API calls.
 * **Prune Unnecessary Tokens**: Remove redundant information from your prompts and responses.
 
-Remember, the key to mastering the Inference Subchain is experimentation and continuous optimization. Don't be afraid to try new approaches and always measure your results.
+Remember, the key to mastering the inference subchain is experimentation and continuous optimization. Don't be afraid to try new approaches and always measure your results.
 
 Got a best practice we missed? Let us know! We're always looking to improve and learn from our community of developers.
 

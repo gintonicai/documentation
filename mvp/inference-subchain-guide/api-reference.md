@@ -1,13 +1,13 @@
 ---
 description: >-
-  Detailed documentation of the gintonic Inference Subchain API. Explore
+  Detailed documentation of the gintonic inference subchain API. Explore
   endpoints, request/response formats, and authentication for seamless
   integration.
 ---
 
 # API Reference
 
-Welcome to the nuts and bolts of the Inference Subchain API. This is where you'll find all the details you need to integrate our service into your applications. Let's dive in!
+Welcome to the nuts and bolts of the inference subchain API. This is where you'll find all the details you need to integrate our service into your applications. Let's dive in!
 
 ## Base URL
 

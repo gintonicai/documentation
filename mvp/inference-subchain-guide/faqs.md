@@ -8,15 +8,15 @@ description: >-
 
 ## Frequently Asked Questions (FAQ)
 
-Got questions? We've got answers! Here's a roundup of the most common queries we get about the Inference Subchain. If you don't find what you're looking for, remember you can always reach out to our support team.
+Got questions? We've got answers! Here's a roundup of the most common queries we get about the inference subchain. If you don't find what you're looking for, remember you can always reach out to our support team.
 
 ### General Questions
 
-#### Q: What is the Inference Subchain?
+#### Q: What is the inference subchain?
 
-**A:** The Inference Subchain is a key component of the gintonic ecosystem that provides developers with access to distributed AI inference capabilities. It acts as a bridge between your applications and our network of GPU-powered nodes, offering cost-effective and scalable AI model execution.
+**A:** The inference subchain is a key component of the gintonic ecosystem that provides developers with access to distributed AI inference capabilities. It acts as a bridge between your applications and our network of GPU-powered nodes, offering cost-effective and scalable AI model execution.
 
-#### Q: How does the Inference Subchain differ from other AI APIs?
+#### Q: How does the inference subchain differ from other AI APIs?
 
 **A:** The main differences are:
 
@@ -24,13 +24,13 @@ Got questions? We've got answers! Here's a roundup of the most common queries we
 2. Scalability: We can easily handle varying loads by leveraging our network of nodes.
 3. Decentralization: Unlike centralized services, we're not dependent on a single point of failure.
 
-#### Q: Which AI models are available on the Inference Subchain?
+#### Q: Which AI models are available on the inference subchain?
 
 **A:** We currently support the Mistral LLM. We're constantly working on adding more models, so stay tuned to our blog for updates!
 
 ### Technical Questions
 
-#### Q: How do I get started with the Inference Subchain?
+#### Q: How do I get started with the inference subchain?
 
 **A:** Check out our Getting Started guide for a step-by-step walkthrough. In short:
 
@@ -100,7 +100,7 @@ Check our Best Practices guide for more in-depth advice.
 
 **A:** Response times can vary based on the complexity of the query and current network load. On average, you can expect responses within 1-3 seconds. If you're consistently seeing higher latency, please contact our support team.
 
-#### Q: Can I use the Inference Subchain for real-time applications?
+#### Q: Can I use the inference subchain for real-time applications?
 
 **A:** Absolutely! While it's not designed for millisecond-level responsiveness, many developers successfully use it for chatbots, content generation, and other near-real-time applications.
 
@@ -110,7 +110,7 @@ Check our Best Practices guide for more in-depth advice.
 
 **A:** We take data privacy seriously. We don't store the content of your requests or the model's responses. All data is processed in memory and then discarded. Check our Privacy Policy for more details.
 
-#### Q: Is the Inference Subchain GDPR compliant?
+#### Q: Is the inference subchain GDPR compliant?
 
 **A:** Yes, we are GDPR compliant. We act as a data processor, and you (the developer) are the data controller. Make sure your use of our service complies with GDPR requirements for your specific application.
 
@@ -118,7 +118,7 @@ Check our Best Practices guide for more in-depth advice.
 
 **A:** We recommend rotating your API keys at least every 90 days. You can easily generate new keys and revoke old ones from your account dashboard.
 
-#### Q: What are the system requirements for using the Inference Subchain?
+#### Q: What are the system requirements for using the inference subchain?
 
 **A:** You'll need Linux Ubuntu 20.04 or later, a GPU with at least 2G VRAM, installed video card drivers and the 'nvidia-smi' package, a HuggingFace account with an Access Token, and a valid blockchain wallet address. Check our Getting Started guide for more details.
 

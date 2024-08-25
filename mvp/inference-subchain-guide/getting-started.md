@@ -1,18 +1,18 @@
 ---
 description: >-
-  Step-by-step guide to set up and use the gintonic Inference Subchain. Learn
+  Step-by-step guide to set up and use the gintonic inference subchain. Learn
   how to create an account, obtain API keys, and make your first API call.
 ---
 
 # Getting Started
 
-## Getting Started with the Inference Subchain
+## Getting Started with the inference subchain
 
 Ready to harness the power of distributed AI inference? Let's get you set up and running in no time.
 
 #### Inspiration: AI Speakeasy
 
-Now that you've set up your environment, you might be wondering what you can build. For inspiration, check out [AI Speakeasy](https://aispeakeasy.com), a demo application built using the gintonic Inference Subchain.
+Now that you've set up your environment, you might be wondering what you can build. For inspiration, check out [AI Speakeasy](https://aispeakeasy.com), a demo application built using the gintonic inference subchain.
 
 AI Speakeasy features an AI bartender powered by the Mistral model, demonstrating how you can create interactive, chat-based AI applications. It's a great example of what's possible with the technology you've just set up.
 
@@ -47,7 +47,7 @@ Before you begin, ensure your system meets the following minimum requirements:
 
 ### Installation Process
 
-To set up the Inference Subchain on your system:
+To set up the inference subchain on your system:
 
 1. Download the installer from [this link](https://thinkchain-backend.sfxdx.com/distillery-download) (Note: This link may be updated periodically)
 2. Run the installer. It will automatically:
@@ -58,7 +58,7 @@ To set up the Inference Subchain on your system:
 
 ### Quick Start Guide
 
-Let's make your first API call to the Inference Subchain:
+Let's make your first API call to the inference subchain:
 
 1.  **Install the gintonic SDK**
 
@@ -91,7 +91,7 @@ Let's make your first API call to the Inference Subchain:
     client.end_chat(chat_id)
     ```
 
-Congratulations! You've just made your first inference request using the gintonic Inference Subchain.
+Congratulations! You've just made your first inference request using the gintonic inference subchain.
 
 ### What's Next?
 
