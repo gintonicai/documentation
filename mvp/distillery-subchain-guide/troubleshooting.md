@@ -119,7 +119,7 @@ Here are some common error messages you might see in your logs, and what they me
 If you've tried the solutions above and are still having issues, it's time to reach out. Here's where to get help:
 
 
-**Discord Channel**: Join our \[Discord Channel]\(https://discord.gg/sGkz4RHz) and post in the #node-help channel. Our team and community members actively monitor this.
+**Discord Channel**: Join our [Discord Channel](https://discord.gg/sGkz4RHz) and post in the #node-help channel. Our team and community members actively monitor this.
 
 When seeking help, always provide:
 
