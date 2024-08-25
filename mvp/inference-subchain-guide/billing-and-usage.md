@@ -1,3 +1,9 @@
+---
+description: >-
+  Understand the billing model and track your usage of the gintonic Inference
+  Subchain. Learn about pricing, monitoring costs, and managing your account.
+---
+
 # Billing and Usage
 
 ## Billing and Usage
@@ -97,8 +103,6 @@ When your balance hits 0:
 * The 'save & apply', 'create & apply', and 'load' buttons are deactivated
 
 Don't worry, though. As soon as you top up, everything will be back to normal!
-
-
 
 ### Billing FAQ
 

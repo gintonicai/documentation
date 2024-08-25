@@ -1,3 +1,10 @@
+---
+description: >-
+  Overview of active subchains in the gintonic ecosystem. Discover how these
+  components drive core functionalities and enable seamless AI development and
+  deployment.
+---
+
 # Live Subchains
 
 The **Live Subchains** in the gintonic ecosystem are the active and operational components that drive the core functionalities of the platform. These subchains are fully integrated with the gintonic Level 0 chain, ensuring seamless interaction and collaboration across various AI tasks.

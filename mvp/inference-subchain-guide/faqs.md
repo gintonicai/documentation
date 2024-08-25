@@ -1,3 +1,9 @@
+---
+description: >-
+  Get answers to frequently asked questions about the gintonic Inference
+  Subchain. Find quick solutions to common queries and concerns.
+---
+
 # FAQs
 
 ## Frequently Asked Questions (FAQ)

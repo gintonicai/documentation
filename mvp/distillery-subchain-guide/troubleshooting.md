@@ -1,3 +1,9 @@
+---
+description: >-
+  Comprehensive guide to solving common issues with your gintonic Distillery
+  node. Find solutions to connectivity, performance, and configuration problems.
+---
+
 # Troubleshooting
 
 ## Troubleshooting Your gintonic Distillery Node
@@ -28,17 +34,19 @@ Even the smoothest-running machines hit a snag now and then. Don't worry - we've
     ```
 2.  Ensure you have the latest image:
 
+    ````bash
     ```bash
-    ```bash
-docker pull gintonic/distillery:latest
-    ```
-3.  Check your `gintonic-config.json` file for errors:
+    ````
 
-    ```bash
-    cat ~/gintonic-config.json
-    ```
+docker pull gintonic/distillery:latest \`\`\` 3. Check your `gintonic-config.json` file for errors:
 
-    Make sure your wallet address is correct and the JSON is valid.
+````
+```bash
+cat ~/gintonic-config.json
+```
+
+Make sure your wallet address is correct and the JSON is valid.
+````
 
 #### 2. Node is Online But Not Earning Rewards
 

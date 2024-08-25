@@ -1,8 +1,8 @@
 ---
 description: >-
-  The Inference Subchain is a key component of the gintonic ecosystem that
-  bridges developers with distributed AI inference capabilities. It offers a
-  cost-efficient and scalable solution for running AI
+  Discover the gintonic Inference Subchain, bridging developers with distributed
+  AI capabilities. Learn about its cost-efficient, scalable solution for running
+  AI models.
 ---
 
 # inference intro

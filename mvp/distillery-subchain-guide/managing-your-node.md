@@ -1,3 +1,9 @@
+---
+description: >-
+  Master the art of maintaining your gintonic Distillery node. Learn about logs,
+  updates, GPU health monitoring, and best practices for optimal performance.
+---
+
 # Managing Your Node
 
 ## Managing Your gintonic Distillery Node
@@ -5,8 +11,6 @@
 Now that your node is up and running, earning you $GIN, it's important to keep an eye on its performance and health. This section will show you how to monitor your node, understand its status, and perform basic maintenance tasks.
 
 ### Accessing and Understanding Logs
-
-
 
 Logs are like your node's diary - they record everything that happens. Here's how to read them:
 
@@ -85,15 +89,17 @@ We're constantly improving gintonic. To get the latest version:
     ```
 3.  Pull the latest image:
 
+    ````bash
     ```bash
-    ```bash
-docker pull gintonic/distillery:latest
-    ```
-4.  Start a new container:
+    ````
 
-    ```bash
-    docker run -d --gpus all -v ~/gintonic-config.json:/app/config.json --name gintonic-distillery gintonic/distillery:latest
-    ```
+docker pull gintonic/distillery:latest \`\`\` 4. Start a new container:
+
+````
+```bash
+docker run -d --gpus all -v ~/gintonic-config.json:/app/config.json --name gintonic-distillery gintonic/distillery:latest
+```
+````
 
 ### Monitoring GPU Health
 

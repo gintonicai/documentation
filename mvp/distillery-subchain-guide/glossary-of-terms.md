@@ -1,3 +1,9 @@
+---
+description: >-
+  Decode the jargon of the gintonic ecosystem. A comprehensive list of terms and
+  definitions to help you navigate the world of decentralized AI.
+---
+
 # Glossary of Terms
 
 ## Glossary of Terms

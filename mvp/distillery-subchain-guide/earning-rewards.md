@@ -1,3 +1,9 @@
+---
+description: >-
+  Learn how rewards are calculated and distributed in the gintonic Distillery
+  network. Discover strategies to maximize your earnings and withdraw rewards.
+---
+
 # Earning Rewards
 
 ## Earning Rewards on the gintonic Network
@@ -41,11 +47,11 @@ This process ensures fair and transparent distribution of rewards based on the a
 
 For transparency, here's how rewards are distributed at a system level:
 
-- If your node is the initial peer, rewards go to a special initial_peer_public_address.
-- If your node has a registered public address, rewards go directly to that address.
-- If your node doesn't have a registered public address, rewards go to an unauth_peer_public_address.
+* If your node is the initial peer, rewards go to a special initial\_peer\_public\_address.
+* If your node has a registered public address, rewards go directly to that address.
+* If your node doesn't have a registered public address, rewards go to an unauth\_peer\_public\_address.
 
-The system also maintains a system_public_address that receives system fees and rewards for unauthorized peers.
+The system also maintains a system\_public\_address that receives system fees and rewards for unauthorized peers.
 
 {% hint style="info" %}
 These addresses are managed by the gintonic system. As a node operator, you only need to ensure your node is properly set up with your public address.

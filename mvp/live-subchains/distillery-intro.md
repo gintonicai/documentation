@@ -1,13 +1,11 @@
 ---
 description: >-
-  Discover the gintonic distillery subchain, a revolutionary platform for
-  distributed AI inference. Learn how it leverages the Petals framework to
-  enable collaborative processing of large language model
+  Explore the gintonic distillery subchain for distributed AI inference. Learn
+  how it uses the Petals framework to enable collaborative processing of large
+  language models.
 ---
 
 # distillery intro
-
-> Powering Distributed AI Inference
 
 ## Overview
 

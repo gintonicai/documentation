@@ -1,3 +1,9 @@
+---
+description: >-
+  Detailed guide on connecting your node to the gintonic Distillery network.
+  Understand peer IDs, addresses, and how to verify your connection.
+---
+
 # Joining the Network
 
 ## Joining the Compute Mining Network

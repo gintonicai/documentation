@@ -1,3 +1,9 @@
+---
+description: >-
+  Step-by-step instructions to join the gintonic Distillery network. Learn
+  system requirements, installation process, and initial setup for your node.
+---
+
 # Getting Started
 
 ## Getting Started with gintonic Distillery
@@ -47,18 +53,22 @@ While it's possible to run on other setups, we've optimized for these specificat
 
     Grab our Docker image:
 
+    ````bash
     ```bash
-    ```bash
-docker pull gintonic/distillery:latest
-    ```
-5.  **Set up your wallet**
+    ````
 
-    You'll need an Ethereum-compatible wallet to receive your $GIN. \
-    If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
-6. **You'll also need to:**
-   1. Create an account on [HuggingFace](https://huggingface.co/)
-   2. Create an Access Token in your HuggingFace account settings
-   3. Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+docker pull gintonic/distillery:latest \`\`\` 5. **Set up your wallet**
+
+```
+You'll need an Ethereum-compatible wallet to receive your $GIN. \
+If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
+```
+
+6\. **You'll also need to:**
+
+1. Create an account on [HuggingFace](https://huggingface.co/)
+2. Create an Access Token in your HuggingFace account settings
+3. Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
 ### Setting Up Your Environment
 

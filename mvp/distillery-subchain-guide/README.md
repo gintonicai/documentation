@@ -1,3 +1,10 @@
+---
+description: >-
+  Comprehensive guide to the gintonic Distillery Subchain. Learn how to
+  contribute GPU power, earn rewards, and participate in decentralized AI
+  computation.
+---
+
 # distillery subchain guide
 
 ## Introduction to gintonic Distillery Subchain

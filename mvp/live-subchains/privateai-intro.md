@@ -1,8 +1,8 @@
 ---
 description: >-
-  overview of the gintonic PrivateAI Subchain, a decentralized protocol for
-  secure data sharing in AI. It covers key features like the blockchain-based
-  marketplace, PGPT token economy, and advanced AI i
+  Overview of the gintonic PrivateAI Subchain, a decentralized protocol for
+  secure data sharing in AI. Learn about its marketplace, token economy, and AI
+  integration.
 ---
 
 # privateAI intro

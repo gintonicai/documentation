@@ -1,3 +1,10 @@
+---
+description: >-
+  Optimize your use of the gintonic Inference Subchain with expert tips. Learn
+  strategies for efficient API usage, error handling, and performance
+  improvement.
+---
+
 # Best Practices
 
 ## Best Practices for the Inference Subchain

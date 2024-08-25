@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore future gintonic subchains, expanding platform capabilities in AI
+  governance, data management, and model training. Discover upcoming innovations
+  in the ecosystem.
+---
+
 # Planned Subchains
 
 The **Planned Subchains** in the gintonic ecosystem represent the future direction of the platform, aiming to expand its capabilities and address emerging needs in AI development. These subchains are currently in the conceptual or development stages, with each one set to provide specialized functions that will enhance the ecosystem's versatility, scalability, and innovation.

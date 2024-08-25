@@ -1,3 +1,9 @@
+---
+description: >-
+  Comprehensive guide to the gintonic Inference Subchain. Learn how to leverage
+  cost-effective, scalable AI model execution for your development projects.
+---
+
 # inference subchain guide
 
 ## Introduction to the Inference Subchain

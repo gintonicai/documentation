@@ -1,3 +1,10 @@
+---
+description: >-
+  Dive into the fundamental concepts of the gintonic Inference Subchain.
+  Understand how it works, its architecture, and key components for effective
+  usage.
+---
+
 # Core Concepts
 
 ## Core Concepts of the Inference Subchain

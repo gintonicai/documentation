@@ -1,3 +1,9 @@
+---
+description: >-
+  Step-by-step guide to set up and use the gintonic Inference Subchain. Learn
+  how to create an account, obtain API keys, and make your first API call.
+---
+
 # Getting Started
 
 ## Getting Started with the Inference Subchain

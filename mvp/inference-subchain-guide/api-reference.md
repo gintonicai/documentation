@@ -1,3 +1,10 @@
+---
+description: >-
+  Detailed documentation of the gintonic Inference Subchain API. Explore
+  endpoints, request/response formats, and authentication for seamless
+  integration.
+---
+
 # API Reference
 
 Welcome to the nuts and bolts of the Inference Subchain API. This is where you'll find all the details you need to integrate our service into your applications. Let's dive in!
@@ -19,10 +26,10 @@ Don't have an API key yet? Head over to the Getting Started guide to learn how t
 ### API Key Management
 
 {% hint style="info" %}
-- You can have up to 5 API keys active on your account at any given time
-- When generating a new API key, it will only be shown once. Make sure to copy and store it securely
-- There is no confirmation prompt when deleting a key, so be careful when managing your keys
-- If you try to delete a key that is currently in use, you'll see a warning: "API key is in use"
+* You can have up to 5 API keys active on your account at any given time
+* When generating a new API key, it will only be shown once. Make sure to copy and store it securely
+* There is no confirmation prompt when deleting a key, so be careful when managing your keys
+* If you try to delete a key that is currently in use, you'll see a warning: "API key is in use"
 {% endhint %}
 
 ## WebSocket Endpoints
@@ -43,12 +50,12 @@ Initiates a new chat session with the AI assistant.
 
 **Request Body**
 
-| Name     | Type   | Description                                                  |
-| -------- | ------ | ------------------------------------------------------------ |
-| `event`  | string | Must be set to "startChat"                                   |
-| `data`   | object | Contains the request data                                    |
-| `chatId` | string | Optional. If not provided, a new chat will be created        |
-| `apiKey` | string | Your API key                                                 |
+| Name     | Type   | Description                                           |
+| -------- | ------ | ----------------------------------------------------- |
+| `event`  | string | Must be set to "startChat"                            |
+| `data`   | object | Contains the request data                             |
+| `chatId` | string | Optional. If not provided, a new chat will be created |
+| `apiKey` | string | Your API key                                          |
 
 **Example Request**
 
@@ -85,13 +92,13 @@ Sends a message to the AI assistant within an existing chat session.
 
 **Request Body**
 
-| Name     | Type   | Description                          |
-| -------- | ------ | ------------------------------------ |
-| `event`  | string | Must be set to "generate"            |
-| `data`   | object | Contains the request data            |
-| `inputs` | string | The message to send to the AI model  |
-| `chatId` | string | The ID of the active chat session    |
-| `apiKey` | string | Your API key                         |
+| Name     | Type   | Description                         |
+| -------- | ------ | ----------------------------------- |
+| `event`  | string | Must be set to "generate"           |
+| `data`   | object | Contains the request data           |
+| `inputs` | string | The message to send to the AI model |
+| `chatId` | string | The ID of the active chat session   |
+| `apiKey` | string | Your API key                        |
 
 **Example Request**
 
@@ -139,15 +146,15 @@ The server will send multiple messages, each containing a chunk of the response:
 ## Chat Session Management
 
 {% hint style="info" %}
-- The chat lifetime is determined from the last message sent and is 24 hours by default
-- If a chat does not receive new messages within 24 hours, it will be automatically deleted
-- Attempting to access a deleted chat will return an error message: "Chat not found"
+* The chat lifetime is determined from the last message sent and is 24 hours by default
+* If a chat does not receive new messages within 24 hours, it will be automatically deleted
+* Attempting to access a deleted chat will return an error message: "Chat not found"
 {% endhint %}
 
 ## WebSocket Communication
 
-- Responses may come in multiple messages, especially for longer outputs
-- The final message in a response will include a `stop: true` flag
+* Responses may come in multiple messages, especially for longer outputs
+* The final message in a response will include a `stop: true` flag
 
 ## Error Handling
 
@@ -195,8 +202,8 @@ If you hit the maximum token limit, you'll get this message:
 ## Rate Limits
 
 {% hint style="warning" %}
-- 100 requests per minute per API key
-- 1000 requests per hour per API key
+* 100 requests per minute per API key
+* 1000 requests per hour per API key
 
 Exceeding these limits will result in a `429` error. If you need higher limits, drop us a line.
 {% endhint %}
