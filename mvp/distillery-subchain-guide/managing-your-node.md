@@ -1,6 +1,6 @@
 # Managing Your Node
 
-## Managing Your Gintonic Distillery Node
+## Managing Your gintonic Distillery Node
 
 Now that your node is up and running, earning you $GIN, it's important to keep an eye on its performance and health. This section will show you how to monitor your node, understand its status, and perform basic maintenance tasks.
 
@@ -60,7 +60,7 @@ docker start gintonic-distillery
 Remember, your node only earns $GIN when it's online and processing tasks. Try to minimize downtime!
 {% endhint %}
 
-Your Gintonic client can be stopped in several ways:
+Your gintonic client can be stopped in several ways:
 
 * Using the docker stop command (as shown above)
 * Manually killing the process
@@ -71,7 +71,7 @@ Regardless of how it's stopped, you can always restart your node using the docke
 
 ### Updating Your Node
 
-We're constantly improving Gintonic. To get the latest version:
+We're constantly improving gintonic. To get the latest version:
 
 1.  Stop your node:
 
@@ -124,6 +124,6 @@ If you notice any issues, consider adjusting your GPU allocation in the `gintoni
 * **Cool and Clean**: Ensure good ventilation for your GPU
 * **Stable Power**: Use a UPS if possible to prevent sudden shutdowns
 
-By keeping your node healthy and up-to-date, you're not just maximizing your $GIN earnings - you're ensuring the Gintonic network stays robust and efficient.
+By keeping your node healthy and up-to-date, you're not just maximizing your $GIN earnings - you're ensuring the gintonic network stays robust and efficient.
 
 In the next section, we'll cover common troubleshooting steps to help you solve any issues that might pop up. Keep distilling!

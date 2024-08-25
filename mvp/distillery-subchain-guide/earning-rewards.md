@@ -1,6 +1,6 @@
 # Earning Rewards
 
-## Earning Rewards on the Gintonic Network
+## Earning Rewards on the gintonic Network
 
 You've set up your node, joined the network, and now your GPU is humming away, contributing to AI tasks. But how exactly do you earn those sweet $GIN tokens? Let's break it down.
 
@@ -48,14 +48,14 @@ For transparency, here's how rewards are distributed at a system level:
 The system also maintains a system_public_address that receives system fees and rewards for unauthorized peers.
 
 {% hint style="info" %}
-These addresses are managed by the Gintonic system. As a node operator, you only need to ensure your node is properly set up with your public address.
+These addresses are managed by the gintonic system. As a node operator, you only need to ensure your node is properly set up with your public address.
 {% endhint %}
 
 ### Checking Your Reward Balance
 
 Curious about how much you've earned? Here's how to check:
 
-1. Visit the [Gintonic Rewards Dashboard](https://rewards.gintonic.ai) (replace with actual URL)
+1. Visit the [gintonic Rewards Dashboard](https://rewards.gintonic.ai) (replace with actual URL)
 2. Connect your wallet (the same one you used to set up your node)
 3. You'll see your current $GIN balance and a history of your earnings
 
@@ -86,6 +86,6 @@ Want to earn more $GIN? Here are some tips:
 * **Upgrade your hardware**: Better GPUs can handle more complex tasks, potentially earning more.
 * **Optimize your setup**: Ensure your system is running efficiently to handle more tasks.
 
-Remember, earning rewards with Gintonic isn't just about making money - you're contributing to the advancement of AI technology. Every task your GPU completes helps researchers and developers push the boundaries of what's possible with AI.
+Remember, earning rewards with gintonic isn't just about making money - you're contributing to the advancement of AI technology. Every task your GPU completes helps researchers and developers push the boundaries of what's possible with AI.
 
 In the next section, we'll cover how to manage and monitor your node to keep it running smoothly. Happy earning!

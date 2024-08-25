@@ -6,7 +6,7 @@ Let's talk money. We know you're here for the AI magic, but understanding how bi
 
 ### Pay-as-You-Go Model
 
-We're all about flexibility here at Gintonic. Our pay-as-you-go model means you only pay for what you use. No hefty upfront costs or monthly commitments. Here's how it works:
+We're all about flexibility here at gintonic. Our pay-as-you-go model means you only pay for what you use. No hefty upfront costs or monthly commitments. Here's how it works:
 
 1. **Deposit GIN Tokens**: Top up your account with GIN tokens.
 2. **Use the Service**: Make API calls to your heart's content.
@@ -16,7 +16,7 @@ Simple, right? Now, let's break it down further.
 
 ### Token Economics
 
-In the world of Gintonic, GIN tokens are your currency. Here's what you need to know:
+In the world of gintonic, GIN tokens are your currency. Here's what you need to know:
 
 * **1 GIN Token** = 1,000,000AI tokens
 * **AI Tokens**: These are the units used to measure the length of input and output text.
@@ -32,7 +32,7 @@ To deposit funds, call the 'deposit' endpoint of the GIN token smart contract. T
 
 Staying on top of your balance is easy:
 
-1. Log into your [Gintonic Console](https://console.gintonic.ai)
+1. Log into your [gintonic Console](https://console.gintonic.ai)
 2. Navigate to the 'Billing' section
 3. You'll see your current balance prominently displayed
 
@@ -52,7 +52,7 @@ print(f"Current balance: {balance} GIN tokens")
 
 Running low? No problem. Here's how to add funds:
 
-1. Go to the 'Billing' section in your Gintonic Console
+1. Go to the 'Billing' section in your gintonic Console
 2. Click on 'Top Up Balance'
 3. Choose the amount you want to add
 4. Complete the transaction using MetaMask
@@ -77,7 +77,7 @@ To deposit funds, call the 'deposit' endpoint of the GIN token smart contract. T
 
 Knowledge is power, especially when it comes to managing costs. Here's how to dive into your usage details:
 
-1. In the Gintonic Console, go to 'Usage Analytics'
+1. In the gintonic Console, go to 'Usage Analytics'
 2. You'll see graphs showing your token usage over time
 3. Use the date range selector to zoom in on specific periods
 

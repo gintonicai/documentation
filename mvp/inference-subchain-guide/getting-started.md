@@ -8,15 +8,15 @@ Ready to harness the power of distributed AI inference? Let's get you set up and
 
 Before you start firing off API requests, make sure you've got these basics covered:
 
-1. **Gintonic Account**: If you haven't already, sign up at [console.gintonic.ai](https://console.gintonic.ai/). It's quick, painless, and free to create an account.
+1. **gintonic Account**: If you haven't already, sign up at [console.gintonic.ai](https://console.gintonic.ai/). It's quick, painless, and free to create an account.
 2. **API Key**: You'll need this to authenticate your requests. Here's how to get one:
-   * Log into your Gintonic account
+   * Log into your gintonic account
    * Navigate to the 'API Keys' section
    * Click 'Generate New Key'
    * Copy and save your key somewhere safe. We'll only show it to you once!
 3. **Wallet Setup**: You'll need a blockchain wallet to handle transactions on the platform.
    * We recommend using MetaMask. If you don't have it, grab it from [metamask.io](https://metamask.io/)
-   * Once installed, connect your wallet to the Gintonic platform
+   * Once installed, connect your wallet to the gintonic platform
 4. **GIN Tokens**: Make sure you have some GIN tokens in your wallet. These are used to pay for inference requests.
 
 ### System Requirements
@@ -44,7 +44,7 @@ To set up the Inference Subchain on your system:
 
 Let's make your first API call to the Inference Subchain:
 
-1.  **Install the Gintonic SDK**
+1.  **Install the gintonic SDK**
 
     We've got SDKs for popular languages. Let's use Python for this example:
 
@@ -75,7 +75,7 @@ Let's make your first API call to the Inference Subchain:
     client.end_chat(chat_id)
     ```
 
-Congratulations! You've just made your first inference request using the Gintonic Inference Subchain.
+Congratulations! You've just made your first inference request using the gintonic Inference Subchain.
 
 ### What's Next?
 

@@ -1,14 +1,14 @@
 # distillery subchain guide
 
-## Introduction to Gintonic Distillery Subchain
+## Introduction to gintonic Distillery Subchain
 
-Welcome to the world of decentralized AI computation! If you've got a GPU collecting dust, you're in the right place. Let's dive into what the Gintonic Distillery Subchain is all about and how it can put your hardware to work.
+Welcome to the world of decentralized AI computation! If you've got a GPU collecting dust, you're in the right place. Let's dive into what the gintonic Distillery Subchain is all about and how it can put your hardware to work.
 
 ### What is the Distillery Subchain?
 
 Think of the Distillery Subchain as a bustling marketplace for AI processing power. It's a platform where your GPU can join forces with others to tackle complex AI tasks. Here's the kicker: you get paid in $GIN tokens for your contribution.
 
-The Distillery Subchain is part of the larger Gintonic ecosystem, which aims to democratize access to AI technologies. By participating, you're not just earning tokens - you're helping to build a more accessible AI future.
+The Distillery Subchain is part of the larger gintonic ecosystem, which aims to democratize access to AI technologies. By participating, you're not just earning tokens - you're helping to build a more accessible AI future.
 
 ### How It Works
 

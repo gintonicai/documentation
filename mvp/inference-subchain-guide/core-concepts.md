@@ -6,7 +6,7 @@ Let's pull back the curtain and take a peek at what makes the Inference Subchain
 
 ### The Big Picture
 
-At its heart, the Inference Subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger Gintonic ecosystem:
+At its heart, the Inference Subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger gintonic ecosystem:
 
 ```mermaid
 graph LR

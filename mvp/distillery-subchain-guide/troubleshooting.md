@@ -1,6 +1,6 @@
 # Troubleshooting
 
-## Troubleshooting Your Gintonic Distillery Node
+## Troubleshooting Your gintonic Distillery Node
 
 Even the smoothest-running machines hit a snag now and then. Don't worry - we've got you covered. This section will walk you through common issues and their solutions, helping you get back to earning $GIN in no time.
 
@@ -110,7 +110,7 @@ Here are some common error messages you might see in your logs, and what they me
 
 If you've tried the solutions above and are still having issues, it's time to reach out. Here's where to get help:
 
-1. **Community Forum**: Post your issue on our [Gintonic Community Forum](https://community.gintonic.ai). Many experienced node operators hang out here and can offer advice.
+1. **Community Forum**: Post your issue on our [gintonic Community Forum](https://community.gintonic.ai). Many experienced node operators hang out here and can offer advice.
 2. **Discord Channel**: Join our [Discord](https://discord.gg/gintonic) and post in the #node-help channel. Our team and community members actively monitor this.
 3. **Email Support**: For sensitive issues or if other channels haven't helped, email us at support@gintonic.ai.
 
@@ -124,4 +124,4 @@ Remember, everyone was new once. Don't hesitate to ask for help - our community 
 
 Running a node is a learning process. Each issue you solve makes you more knowledgeable and your node more reliable. Keep at it! \{% endhint }
 
-In the next section, we'll cover a glossary of terms to help you navigate the Gintonic ecosystem like a pro. Happy troubleshooting!
+In the next section, we'll cover a glossary of terms to help you navigate the gintonic ecosystem like a pro. Happy troubleshooting!

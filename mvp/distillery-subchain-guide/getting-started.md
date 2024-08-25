@@ -1,8 +1,8 @@
 # Getting Started
 
-## Getting Started with Gintonic Distillery
+## Getting Started with gintonic Distillery
 
-Ready to put your GPU to work? Great! This guide will walk you through the process of joining the Gintonic Distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
+Ready to put your GPU to work? Great! This guide will walk you through the process of joining the gintonic Distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
 
 ### System Requirements
 
@@ -43,7 +43,7 @@ While it's possible to run on other setups, we've optimized for these specificat
     curl -fsSL https://get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
     ```
-4.  **Pull the Gintonic Distillery image**
+4.  **Pull the gintonic Distillery image**
 
     Grab our Docker image:
 
@@ -72,16 +72,16 @@ While it's possible to run on other setups, we've optimized for these specificat
     }
     ```
 
-    Replace `YOUR_WALLET_ADDRESS_HERE` with your actual wallet address. The `gpu_allocation` value sets the percentage of your GPU you want to dedicate to Gintonic (70% is a good starting point).
+    Replace `YOUR_WALLET_ADDRESS_HERE` with your actual wallet address. The `gpu_allocation` value sets the percentage of your GPU you want to dedicate to gintonic (70% is a good starting point).
 2.  **Start your node**
 
-    Run the following command to start your Gintonic Distillery node:
+    Run the following command to start your gintonic Distillery node:
 
     ```bash
     docker run -d --gpus all -v ~/gintonic-config.json:/app/config.json gintonic/distillery:latest
     ```
 
-And that's it! Your GPU is now part of the Gintonic network, ready to crunch some AI tasks and earn you some $GIN.
+And that's it! Your GPU is now part of the gintonic network, ready to crunch some AI tasks and earn you some $GIN.
 
 {% hint style="info" %}
 **First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community Discord.

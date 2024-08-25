@@ -37,7 +37,7 @@ The PrivateAI Subchain offers numerous advantages for data owners, researchers, 
 * **Advanced Analytics**: Access cutting-edge AI models and knowledge graphs for sophisticated data analysis.
 * **Quality Assurance**: Benefit from anti-plagiarism controls and peer review systems to maintain high data standards.
 
-### Synergy with the Gintonic Ecosystem
+### Synergy with the gintonic Ecosystem
 
 The PrivateAI Subchain enhances the gintonic ecosystem by:
 
