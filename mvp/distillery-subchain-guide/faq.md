@@ -77,8 +77,9 @@ Welcome to the FAQ section of the gintonic Distillery documentation. Here, we've
 > Absolutely! We're always looking for community contributions. Whether it's suggesting improvements, reporting bugs, or even contributing code if you're a developer, we welcome your input. Check our GitHub repository or community forums for ways to get involved.
 
 ***
-{% hint }
 
-Don't see your question here? Our community is always ready to help! Head over to our  [Discord Channel](https://discord.gg/sGkz4RHz) to ask. {% endhint }
+{% hint style="info" %}
+Don't see your question here? Our community is always ready to help! Head over to our [Discord Channel](https://discord.gg/sGkz4RHz) to ask.&#x20;
+{% endhint %}
 
 Remember, the world of decentralized AI is constantly evolving, and so is gintonic. Keep an eye on our official channels for the latest updates and new opportunities in the ecosystem. Happy distilling!
