@@ -44,6 +44,7 @@ cat ~/gintonic-config.json
 ```
 
 
+
 Make sure your wallet address is correct and the JSON is valid.
 
 #### 2. Node is Online But Not Earning Rewards
