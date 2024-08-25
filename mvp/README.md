@@ -2,7 +2,7 @@
 description: >-
   Explore the gintonic ecosystem, a decentralized AI platform leveraging
   blockchain technology. Learn about our specialized subchains for AI tasks, the
-  $GIN token economy, and how we're revolutionizing A
+  $GIN token economy, and how we're revolutionizing
 ---
 
 # gintonic hub
@@ -46,8 +46,12 @@ Remember, gintonic is more than just a platform – it's a community-driven ecos
 
 Let's build the future of AI together!
 
-## Quick Links
+### Experience gintonic in Action: AI Speakeasy
 
-[gintonic](https://console.gintonic.ai/)
+Want to see what gintonic's inference subchain can do? Check out [AI Speakeasy](https://aispeakeasy.com), a live demonstration of our technology in action.
 
-[AIspeakeasy](https://aispeakeasy.com/)
+AI Speakeasy features a virtual bartender powered by the Mistral model through our inference subchain. After creating an account, you can engage in chat-based interactions with the AI bartender, experiencing firsthand the capabilities of our platform.
+
+This project not only showcases the power of gintonic but also provides a fun and interactive way to understand how developers can leverage our technology to create engaging AI-powered applications.
+
+[Visit AI Speakeasy](https://aispeakeasy.com)

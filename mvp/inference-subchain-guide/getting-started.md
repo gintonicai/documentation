@@ -4,6 +4,16 @@
 
 Ready to harness the power of distributed AI inference? Let's get you set up and running in no time.
 
+#### Inspiration: AI Speakeasy
+
+Now that you've set up your environment, you might be wondering what you can build. For inspiration, check out [AI Speakeasy](https://aispeakeasy.com), a demo application built using the gintonic Inference Subchain.
+
+AI Speakeasy features an AI bartender powered by the Mistral model, demonstrating how you can create interactive, chat-based AI applications. It's a great example of what's possible with the technology you've just set up.
+
+As you continue your journey with gintonic, keep AI Speakeasy in mind as a benchmark for the kind of engaging, responsive AI applications you can create.
+
+[Explore AI Speakeasy](https://aispeakeasy.com)
+
 ### Prerequisites
 
 Before you start firing off API requests, make sure you've got these basics covered:

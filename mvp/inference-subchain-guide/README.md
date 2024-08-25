@@ -26,6 +26,14 @@ Here's the TL;DR:
 
 It's distributed computing magic, and you don't need to understand the inner workings to reap the benefits.
 
+#### See It in Action: AI Speakeasy
+
+To get a taste of what's possible with the Inference Subchain, check out [AI Speakeasy](https://aispeakeasy.com). This interactive demo features an AI bartender powered by the Mistral model running on our Inference Subchain.
+
+By creating an account and chatting with the AI bartender, you can experience firsthand the responsiveness and capabilities of our platform. It's a great way to envision how you might integrate similar functionality into your own applications.
+
+[Try AI Speakeasy](https://aispeakeasy.com)
+
 ### Ready to Dive In?
 
 Great! Head over to the Getting Started section to set up your account and make your first API call. If you're the type who likes to understand the nitty-gritty details first, check out our Core Concepts page.
