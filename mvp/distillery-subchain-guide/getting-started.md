@@ -19,6 +19,33 @@ Before we dive in, let's make sure your system is up to the task:
 * **Storage**: At least 50GB of free disk space
 * **Internet**: Stable broadband connection
 
+The Petals framework, which is designed for distributed inference and fine-tuning of large language models, primarily supports NVIDIA GPUs that are compatible with CUDA. Here is a list of NVIDIA GPUs that are generally supported, provided they have sufficient VRAM (typically 8 GB or more is recommended for larger models):
+
+#### Supported NVIDIA GPUs:
+
+1. **GeForce Series:**
+   * RTX 4090, RTX 4080, RTX 4070 Ti
+   * RTX 3090, RTX 3080, RTX 3070, RTX 3060 (and Ti variants)
+   * RTX 2080 Ti, RTX 2080, RTX 2070, RTX 2060 (and Ti variants)
+   * GTX 1660, GTX 1650 (with lower performance due to limited VRAM)
+   * GTX 1080 Ti, GTX 1080, GTX 1070, GTX 1060 (older, but still usable for smaller tasks)
+2. **Quadro Series:**
+   * Quadro RTX 8000, RTX 6000, RTX 5000
+   * Quadro P6000, P5000 (older models with large VRAM)
+3. **Tesla Series:**
+   * Tesla V100, P100 (high-performance, data-center GPUs)
+4. **A-Series (Data Center GPUs):**
+   * A100, A40, A30 (high-end, designed for AI workloads)
+5. **Titan Series:**
+   * Titan RTX, Titan V, Titan Xp (high VRAM, consumer-grade GPUs with excellent performance)
+
+#### Key Requirements:
+
+* **CUDA Compatibility:** The GPU must support CUDA 11.3 or newer, as Petals relies on the CUDA toolkit for parallel computing capabilities.
+* **VRAM:** For larger models like those supported by Petals (e.g., BLOOM, Llama), having at least 8 GB of VRAM is recommended to handle the model’s requirements efficiently.
+
+These GPUs are widely supported and provide the best performance for running distributed model inference and fine-tuning with the Petals framework. For optimal performance, using the latest drivers and CUDA versions is recommended【7†source】【9†source】.
+
 {% hint style="warning" %}
 While it's possible to run on other setups, we've optimized for these specifications. Your mileage may vary with different configurations.
 {% endhint %}
