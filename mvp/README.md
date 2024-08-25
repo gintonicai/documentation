@@ -39,8 +39,7 @@ These subchains, while specializing in different areas, can work together seamle
 Ready to dive in? Here's how you can start exploring and using gintonic:
 
 1. **Explore the Subchains**: Take a look at our [Subchain Directory](link-to-directory/) to see what specialized services are available.
-2. **Set Up Your Environment**: Check out our [Quick Start Guide](link-to-guide/) to set up your development environment for interacting with gintonic.
-3. **Join the Community**: Hop into our [Discord](link-to-discord/) or [Forum](link-to-forum/) to connect with other developers and get help.
+2. **Join the Community**: Hop into our [Discord](https://discord.gg/3xH9MHpn) to connect with other developers and get help.
 
 Remember, gintonic is more than just a platform – it's a community-driven ecosystem. Your participation and feedback help shape the future of decentralized AI development.
 
