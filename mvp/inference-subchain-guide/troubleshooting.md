@@ -28,9 +28,6 @@ b) **Network Issues**
 * Check your internet connection.
 * If you're behind a firewall, ensure it's not blocking WebSocket connections.
 
-c) **Server Downtime**
-
-* Check our [status page](https://status.gintonic.ai) for any ongoing issues.
 
 **Code to Test Connection**:
 

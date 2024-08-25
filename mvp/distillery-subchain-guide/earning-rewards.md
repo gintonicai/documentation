@@ -61,7 +61,7 @@ These addresses are managed by the gintonic system. As a node operator, you only
 
 Curious about how much you've earned? Here's how to check:
 
-1. Visit the [gintonic Rewards Dashboard](https://rewards.gintonic.ai) (replace with actual URL)
+1. Visit the [gintonic Distillery Account](https://console.gintonic.ai/distillery) 
 2. Connect your wallet (the same one you used to set up your node)
 3. You'll see your current $GIN balance and a history of your earnings
 

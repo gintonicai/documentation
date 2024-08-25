@@ -107,7 +107,7 @@ Keep an eye on your usage and performance:
 The AI field moves fast. Stay on top of new features and models:
 
 * **Follow Our Blog**: We regularly post updates and new features.
-* **Join Our Community**: Share and learn from other developers in our Discord channel.
+* **Join Our Community**: Share and learn from other developers in our \Discord channel\ (https://discord.gg/hm6PYe5W).
 
 ### 9. Security Best Practices
 

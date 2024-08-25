@@ -114,7 +114,7 @@ If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure 
 And that's it! Your GPU is now part of the gintonic network, ready to crunch some AI tasks and earn you some $GIN.
 
 {% hint style="info" %}
-**First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community Discord.
+**First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community \[Discord Channel]\(https://discord.gg/sGkz4RHz).
 {% endhint %}
 
 In the next section, we'll cover how to monitor your node and track your earnings. Happy distilling!
