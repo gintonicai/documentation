@@ -30,10 +30,11 @@ While it's possible to run on other setups, we've optimized for these specificat
 
     If you haven't already, install the latest NVIDIA drivers:
 
-    ```bash
+    <pre class="language-bash"><code class="lang-bash"><strong># You'll also need python3.9 or higher, and the nvidia-smi package
+    </strong>sudo apt install python3.9 nvidia-smi
     sudo ubuntu-drivers autoinstall
     sudo reboot
-    ```
+    </code></pre>
 3.  **Install Docker**
 
     We use Docker to keep things neat and tidy. Install it with:
@@ -51,7 +52,12 @@ While it's possible to run on other setups, we've optimized for these specificat
     ```
 5.  **Set up your wallet**
 
-    You'll need an Ethereum-compatible wallet to receive your $GIN tokens. If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
+    You'll need an Ethereum-compatible wallet to receive your $GIN tokens. \
+    If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
+6. **You'll also need to:**
+   1. Create an account on [HuggingFace](https://huggingface.co/)
+   2. Create an Access Token in your HuggingFace account settings
+   3. Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
 ### Setting Up Your Environment
 

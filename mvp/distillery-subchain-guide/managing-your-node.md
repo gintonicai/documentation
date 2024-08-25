@@ -31,6 +31,15 @@ Don't worry about understanding every line. Look out for:
 * `WARN`: Potential issues to keep an eye on
 * `ERROR`: Problems that need your attention
 
+The logs contain information about:
+
+* Installation of required dependencies
+* Calculation of available video card memory
+* Petals server startup
+* Retrieval of the PeerID
+* PID of the running Distillery server process
+* Sending a request to the backend with the blockchain address and PeerID
+
 ### Starting and Stopping Your Node
 
 Need to take your node offline for a bit? No problem:

@@ -26,15 +26,19 @@ Good news! If you followed the steps in the "Getting Started" section, your node
 
 This process is automatic, so you don't need to do anything extra. Pretty cool, right?
 
+{% hint style="warning" %}
+Note: The 'initial\_peer' address is provided during the installation process. This is currently a security risk that will be addressed in future releases.
+{% endhint %}
+
 ## Technical Details of Network Connection
 
 When your node joins the network:
 
-- It connects to an 'initial_peer' address. This address is provided during the installation process.
-- By default, your node allocates 70% of your GPU's capacity to Gintonic tasks. You can adjust this in your configuration file if needed.
+* It connects to an 'initial\_peer' address. This address is provided during the installation process.
+* By default, your node allocates 70% of your GPU's capacity to Gintonic tasks. You can adjust this in your configuration file if needed.
 
 {% hint style="warning" %}
-The 'initial_peer' address is crucial for network security. Never share this address or try to alter it manually.
+The 'initial\_peer' address is crucial for network security. Never share this address or try to alter it manually.
 {% endhint %}
 
 ### Understanding Peer IDs and Addresses
