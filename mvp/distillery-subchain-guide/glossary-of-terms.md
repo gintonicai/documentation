@@ -8,7 +8,7 @@ description: >-
 
 ## Glossary of Terms
 
-Welcome to the gintonic Distillery glossary! Here, we'll break down the jargon and technical terms you might encounter while operating your node. Don't worry if it seems like a lot at first - you'll be speaking "gintonic" in no time!
+Welcome to the gintonic distillery glossary! Here, we'll break down the jargon and technical terms you might encounter while operating your node. Don't worry if it seems like a lot at first - you'll be speaking "gintonic" in no time!
 
 ### A
 
@@ -56,7 +56,7 @@ The process of using a trained AI model to make predictions or decisions. Your n
 
 #### Node
 
-In the gintonic network, a node is your computer running the gintonic Distillery software, contributing GPU power to the network.
+In the gintonic network, a node is your computer running the gintonic distillery software, contributing GPU power to the network.
 
 ### P
 

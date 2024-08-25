@@ -1,6 +1,6 @@
 ---
 description: >-
-  Detailed guide on connecting your node to the gintonic Distillery network.
+  Detailed guide on connecting your node to the gintonic distillery network.
   Understand peer IDs, addresses, and how to verify your connection.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Joining the Compute Mining Network
 
-Congratulations on setting up your gintonic Distillery node! Now it's time to connect to the network and start earning those $GIN. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
+Congratulations on setting up your gintonic distillery node! Now it's time to connect to the network and start earning those $GIN. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
 
 ### Providing Your Public Address
 

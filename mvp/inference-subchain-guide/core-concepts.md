@@ -18,7 +18,7 @@ At its heart, the inference subchain is all about connecting you, the developer,
 ```mermaid
 graph LR
     A[Your App] --> B[inference subchain API]
-    B --> C[Distillery Subnet]
+    B --> C[distillery Subnet]
     C --> D[GPU Node 1]
     C --> E[GPU Node 2]
     C --> F[GPU Node N]
@@ -28,11 +28,11 @@ graph LR
 
 1. **API Layer**: This is where you come in. You send requests to our API, just like you would with any other cloud AI service.
 2. **Request Routing**: The inference subchain takes your request and figures out the best way to process it. It's like a traffic cop for AI tasks.
-3. **Distillery Subnet**: This is where the magic happens. Your request gets broken down and distributed across a network of GPU-powered nodes.
+3. **distillery Subnet**: This is where the magic happens. Your request gets broken down and distributed across a network of GPU-powered nodes.
 4. **Processing**: Each node crunches its part of the task. It's like a bunch of mini-brains working together on your problem.
 5. **Response Aggregation**: The inference subchain collects all the pieces, puts them back together, and sends you the final result.
 
-### The Secret Sauce: [Distillery Subnet](../live-subchains/distillery-intro.md)
+### The Secret Sauce: [distillery Subnet](../live-subchains/distillery-intro.md)
 
 The distillery subchain is what sets us apart from traditional, centralized AI services. It's a network of distributed GPU nodes that work together to process your requests. Here's why it's awesome:
 

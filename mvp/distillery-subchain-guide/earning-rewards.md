@@ -1,6 +1,6 @@
 ---
 description: >-
-  Learn how rewards are calculated and distributed in the gintonic Distillery
+  Learn how rewards are calculated and distributed in the gintonic distillery
   network. Discover strategies to maximize your earnings and withdraw rewards.
 ---
 
@@ -61,7 +61,7 @@ These addresses are managed by the gintonic system. As a node operator, you only
 
 Curious about how much you've earned? Here's how to check:
 
-1. Visit the [gintonic Distillery Account](https://console.gintonic.ai/distillery)
+1. Visit the [gintonic distillery Account](https://console.gintonic.ai/distillery)
 2. Connect your wallet (the same one you used to set up your node)
 3. You'll see your current $GIN balance and a history of your earnings
 

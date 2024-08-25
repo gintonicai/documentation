@@ -1,12 +1,12 @@
 ---
 description: >-
-  Comprehensive guide to solving common issues with your gintonic Distillery
+  Comprehensive guide to solving common issues with your gintonic distillery
   node. Find solutions to connectivity, performance, and configuration problems.
 ---
 
 # Troubleshooting
 
-## Troubleshooting Your gintonic Distillery Node
+## Troubleshooting Your gintonic distillery Node
 
 Even the smoothest-running machines hit a snag now and then. Don't worry - we've got you covered. This section will walk you through common issues and their solutions, helping you get back to earning $GIN in no time.
 

@@ -37,7 +37,7 @@ The inference subchain offers several key advantages for developers:
 * **Scalability**: Leverages the distributed nature of the gintonic ecosystem to handle varying loads efficiently.
 * **Access to Advanced Models**: Starting with the Mistral LLM, with plans to expand to other cutting-edge models in the future.
 
-## Synergy with the Distillery Subnet
+## Synergy with the distillery Subnet
 
 The inference subchain works in close harmony with the distillery subchain:
 

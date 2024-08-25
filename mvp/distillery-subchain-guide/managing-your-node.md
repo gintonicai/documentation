@@ -1,12 +1,12 @@
 ---
 description: >-
-  Master the art of maintaining your gintonic Distillery node. Learn about logs,
+  Master the art of maintaining your gintonic distillery node. Learn about logs,
   updates, GPU health monitoring, and best practices for optimal performance.
 ---
 
 # Managing Your Node
 
-## Managing Your gintonic Distillery Node
+## Managing Your gintonic distillery Node
 
 Now that your node is up and running, earning you $GIN, it's important to keep an eye on its performance and health. This section will show you how to monitor your node, understand its status, and perform basic maintenance tasks.
 
@@ -41,7 +41,7 @@ The logs contain information about:
 * Calculation of available video card memory
 * Petals server startup
 * Retrieval of the PeerID
-* PID of the running Distillery server process
+* PID of the running distillery server process
 * Sending a request to the backend with the blockchain address and PeerID
 
 ### Starting and Stopping Your Node

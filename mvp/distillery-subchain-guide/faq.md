@@ -2,15 +2,15 @@
 
 ## Frequently Asked Questions (FAQ)
 
-Welcome to the FAQ section of the gintonic Distillery documentation. Here, we've compiled answers to the most common questions our users ask. If you don't find your question here, remember you can always reach out to our community forums or support team!
+Welcome to the FAQ section of the gintonic distillery documentation. Here, we've compiled answers to the most common questions our users ask. If you don't find your question here, remember you can always reach out to our community forums or support team!
 
 ***
 
 ### General Questions
 
-#### Q: What exactly is gintonic Distillery?
+#### Q: What exactly is gintonic distillery?
 
-> gintonic Distillery is a decentralized platform that allows GPU owners to contribute their computing power to AI tasks in exchange for $GIN. It's like mining for cryptocurrency, but instead of solving arbitrary puzzles, your GPU is helping to advance AI technology.
+> gintonic distillery is a decentralized platform that allows GPU owners to contribute their computing power to AI tasks in exchange for $GIN. It's like mining for cryptocurrency, but instead of solving arbitrary puzzles, your GPU is helping to advance AI technology.
 
 #### Q: Do I need to be a tech expert to run a gintonic node?
 

@@ -1,14 +1,14 @@
 ---
 description: >-
-  Step-by-step instructions to join the gintonic Distillery network. Learn
+  Step-by-step instructions to join the gintonic distillery network. Learn
   system requirements, installation process, and initial setup for your node.
 ---
 
 # Getting Started
 
-## Getting Started with gintonic Distillery
+## Getting Started with gintonic distillery
 
-Ready to put your GPU to work? Great! This guide will walk you through the process of joining the gintonic Distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
+Ready to put your GPU to work? Great! This guide will walk you through the process of joining the gintonic distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
 
 ### System Requirements
 
@@ -50,9 +50,9 @@ These GPUs are widely supported and provide the best performance for running dis
 While it's possible to run on other setups, we've optimized for these specifications. Your mileage may vary with different configurations.
 {% endhint %}
 
-### Creating a gintonic Distillery Account
+### Creating a gintonic distillery Account
 
-Before setting up your node, you'll need to create a gintonic Distillery account:
+Before setting up your node, you'll need to create a gintonic distillery account:
 
 1. Visit [https://console.gintonic.ai/distillery](https://console.gintonic.ai/distillery)
 2. Click on the "Sign Up" button
@@ -63,7 +63,7 @@ Before setting up your node, you'll need to create a gintonic Distillery account
 4. Read and accept the Terms of Service and Privacy Policy
 5. Click "Create Account"
 6. Verify your email address by clicking the link sent to your inbox
-7. Once verified, log in to your new gintonic Distillery account
+7. Once verified, log in to your new gintonic distillery account
 
 {% hint style="info" %}
 Keep your account credentials safe and secure. You'll need them to manage your node and access your earnings.
@@ -95,7 +95,7 @@ Keep your account credentials safe and secure. You'll need them to manage your n
     curl -fsSL https://get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
     ```
-4.  **Pull the gintonic Distillery image**
+4.  **Pull the gintonic distillery image**
 
     Grab our Docker image:
 
@@ -132,7 +132,7 @@ Keep your account credentials safe and secure. You'll need them to manage your n
     Replace `YOUR_WALLET_ADDRESS_HERE` with your actual wallet address. The `gpu_allocation` value sets the percentage of your GPU you want to dedicate to gintonic (70% is a good starting point).
 2.  **Start your node**
 
-    Run the following command to start your gintonic Distillery node:
+    Run the following command to start your gintonic distillery node:
 
     ```bash
     docker run -d --gpus all -v ~/gintonic-config.json:/app/config.json gintonic/distillery:latest
