@@ -148,7 +148,7 @@ If you're still stuck, our support team is here to help!
 
 1. Your internet connection
 2. The complexity of your queries (simpler is often faster)
-3. Our [status page](https://status.gintonic.ai) for any ongoing issues
+
 
 If the problem persists, please contact support with details about your use case.
 

@@ -24,7 +24,7 @@ As you continue your journey with gintonic, keep AI Speakeasy in mind as a bench
 
 Before you start firing off API requests, make sure you've got these basics covered:
 
-1. **gintonic Account**: If you haven't already, sign up at [console.gintonic.ai](https://console.gintonic.ai/). It's quick, painless, and free to create an account.
+1. **gintonic Inference Account**: If you haven't already, sign up at [https://console.gintonic.ai/inference](https://console.gintonic.ai/inference). It's quick, painless, and free to create an account.
 2. **API Key**: You'll need this to authenticate your requests. Here's how to get one:
    * Log into your gintonic account
    * Navigate to the 'API Keys' section

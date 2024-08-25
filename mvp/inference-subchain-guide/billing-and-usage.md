@@ -38,7 +38,7 @@ To deposit funds, call the 'deposit' endpoint of the $GIN token smart contract. 
 
 Staying on top of your balance is easy:
 
-1. Log into your [gintonic Console](https://console.gintonic.ai)
+1. Log into your [gintonic inference Console](https://console.gintonic.ai/inference)
 2. Navigate to the 'Billing' section
 3. You'll see your current balance prominently displayed
 

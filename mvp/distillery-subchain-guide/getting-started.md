@@ -23,6 +23,25 @@ Before we dive in, let's make sure your system is up to the task:
 While it's possible to run on other setups, we've optimized for these specifications. Your mileage may vary with different configurations.
 {% endhint %}
 
+### Creating a Gintonic Distillery Account
+
+Before setting up your node, you'll need to create a Gintonic Distillery account:
+
+1. Visit [https://console.gintonic.ai/distillery](https://console.gintonic.ai/distillery)
+2. Click on the "Sign Up" button
+3. Fill in the required information:
+   - Email address
+   - Password (make sure it's strong and unique)
+   - Confirm password
+4. Read and accept the Terms of Service and Privacy Policy
+5. Click "Create Account"
+6. Verify your email address by clicking the link sent to your inbox
+7. Once verified, log in to your new Gintonic Distillery account
+
+{% hint style="info" %}
+Keep your account credentials safe and secure. You'll need them to manage your node and access your earnings.
+{% endhint %}
+
 ### Installation Guide
 
 1.  **Update your system**
