@@ -1,8 +1,8 @@
 ---
 description: >-
-  The PrivateAI Subchain is a revolutionary component of the gintonic ecosystem
-  that enables secure, privacy-preserving data sharing and monetization for AI
-  applications. It combines blockchain technolo
+  overview of the gintonic PrivateAI Subchain, a decentralized protocol for
+  secure data sharing in AI. It covers key features like the blockchain-based
+  marketplace, PGPT token economy, and advanced AI i
 ---
 
 # privateAI intro
