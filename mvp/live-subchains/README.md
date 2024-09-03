@@ -1,4 +1,4 @@
-```markdown
+
 ---
 description: >-
   A deep dive into the active subchains powering the gintonic ecosystem. Explore how these vital components fuel core functionalities and pave the way for frictionless AI development and deployment.
@@ -15,4 +15,3 @@ But these subchains aren't just about ticking boxes. They're game-changers, maki
 And here's the kicker – these subchains aren't lone wolves. They're team players, creating a melting pot where resources and bright ideas can mingle freely. As gintonic grows and evolves (and trust me, it's always on the move), these Live Subchains are the secret sauce that keeps the whole shebang running smoothly. They're constantly adapting, making sure the platform stays fighting fit and ready to tackle whatever curveballs the AI world throws its way.
 
 Want to get the lowdown on each Live Subchain? Dive into their individual pages – you won't be disappointed!
-```

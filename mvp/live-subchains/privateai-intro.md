@@ -1,4 +1,4 @@
-```markdown
+
 ---
 description: >-
   Uncover the secrets of the gintonic PrivateAI Subchain - your ticket to the future of secure data sharing in AI. Dive into its bustling marketplace, token-powered economy, and AI wizardry.
@@ -57,4 +57,3 @@ We're not just disrupting industries; we're throwing them a block party:
 3. Collaborative research has never been this secure or transparent. It's like a global brain trust, but with better firewalls.
 
 _Ready to turn your data into a superpower? Join our data-sharing revolution and watch your datasets work harder than a one-armed wallpaper hanger in a windstorm!_
-```

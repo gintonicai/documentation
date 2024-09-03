@@ -1,4 +1,4 @@
-```markdown
+
 ---
 description: >-
   Dive into the gintonic distillery subchain - your gateway to distributed AI wizardry. See how it harnesses the Petals framework to turn collaborative number-crunching into large language model magic.
@@ -39,4 +39,3 @@ By hopping aboard the distillery subchain, you're not just joining a network - y
 Ready to dive in? Our [distillery subchain guide](../distillery-subchain-guide/) is waiting for you!
 
 _Come on in, the water's fine! Let's democratize AI and cook up the future of distributed computing together!_
-```

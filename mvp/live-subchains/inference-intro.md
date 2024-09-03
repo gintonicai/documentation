@@ -1,4 +1,4 @@
-```markdown
+
 ---
 description: >-
   Meet the gintonic inference subchain: your AI middleman extraordinaire. See how it's bridging the gap between you and a world of distributed AI superpowers, all while keeping your wallet happy.
@@ -54,4 +54,3 @@ With the inference subchain as your trusty sidekick, you're all set to:
 Ready to join the AI revolution? The [inference subchain guide](../inference-subchain-guide/) is your golden ticket!
 
 _Come on in, the future's fine! Let's flip the script on AI access and sprinkle some distributed magic into your code!_
-```
