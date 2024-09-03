@@ -1,4 +1,3 @@
-```markdown
 ---
 description: >-
   Your go-to guide for the gintonic Private AI Subchain. Dive into secure data sharing, 
@@ -53,4 +52,3 @@ We've got a virtual bartender powered by the [Mistral LLM](https://docs.mistral.
 Just create an account, start chatting, and see firsthand how our tech can create some seriously cool AI applications. Who knows, it might even inspire your next big project!
 
 [Check out AI Speakeasy](https://aispeakeasy.com) – Your liver might thank you, but your productivity might not!
-```
