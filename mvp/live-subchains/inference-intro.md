@@ -1,4 +1,3 @@
-
 ---
 description: >-
   Meet the gintonic inference subchain: your AI middleman extraordinaire. See how it's bridging the gap between you and a world of distributed AI superpowers, all while keeping your wallet happy.

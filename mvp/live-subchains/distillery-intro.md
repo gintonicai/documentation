@@ -1,4 +1,3 @@
-
 ---
 description: >-
   Dive into the gintonic distillery subchain - your gateway to distributed AI wizardry. See how it harnesses the Petals framework to turn collaborative number-crunching into large language model magic.
