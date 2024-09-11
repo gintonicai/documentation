@@ -1,6 +1,6 @@
 ---
 description: >-
-  Understand the billing model and track your usage of the gintonic Inference
+  Understand the billing model and track your usage of the Gintonic Inference
   Subchain. Learn about pricing, monitoring costs, and managing your account.
 ---
 
@@ -12,7 +12,7 @@ Let's talk money. We know you're here for the AI magic, but understanding how bi
 
 ### Pay-as-You-Go Model
 
-We're all about flexibility here at gintonic. Our pay-as-you-go model means you only pay for what you use. No hefty upfront costs or monthly commitments. Here's how it works:
+We're all about flexibility here at Gintonic. Our pay-as-you-go model means you only pay for what you use. No hefty upfront costs or monthly commitments. Here's how it works:
 
 1. **Deposit $GIN**: Top up your account with $GIN.
 2. **Use the Service**: Make API calls to your heart's content.
@@ -22,7 +22,7 @@ Simple, right? Now, let's break it down further.
 
 ### Token Economics
 
-In the world of gintonic, $GIN are your currency. Here's what you need to know:
+In the world of Gintonic, $GIN is your currency. Here's what you need to know:
 
 * **1 $GIN Token** = 1,000,000 AI tokens
 * **AI Tokens**: These are the units used to measure the length of input and output text.
@@ -58,7 +58,7 @@ print(f"Current balance: {balance} $GIN")
 
 Running low? No problem. Here's how to add funds:
 
-1. Go to the 'Billing' section in your gintonic Console
+1. Go to the 'Billing' section in your Gintonic Console
 2. Click on 'Top Up Balance'
 3. Choose the amount you want to add
 4. Complete the transaction using MetaMask
@@ -83,9 +83,9 @@ To deposit funds, call the 'deposit' endpoint of the $GIN token smart contract. 
 
 Knowledge is power, especially when it comes to managing costs. Here's how to dive into your usage details:
 
-1. In the gintonic Console, go to 'Usage Analytics'
-2. You'll see graphs showing your token usage over time
-3. Use the date range selector to zoom in on specific periods
+1. In the Gintonic Console, go to 'Usage Analytics'.
+2. You'll see graphs showing your token usage over time.
+3. Use the date range selector to zoom in on specific periods.
 
 ### Notifications and Balance Thresholds
 
@@ -99,8 +99,8 @@ We've got your back when it comes to keeping track of your balance. Here's how o
 
 When your balance hits 0:
 
-* You can't send new messages into the dialog
-* The 'save & apply', 'create & apply', and 'load' buttons are deactivated
+* You can't send new messages into the dialog.
+* The 'save & apply', 'create & apply', and 'load' buttons are deactivated.
 
 Don't worry, though. As soon as you top up, everything will be back to normal!
 

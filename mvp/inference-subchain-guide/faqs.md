@@ -77,7 +77,7 @@ def send_with_backoff(client, chat_id, message, max_retries=5):
 
 #### Q: Do unused tokens expire?
 
-**A:** Nope! Your $GIN don't have an expiration date. They'll be there waiting for you when you need them.
+**A:** Nope! Your $GIN doesn't have an expiration date. They'll be there waiting for you when you need them.
 
 #### Q: Can I set a spending limit?
 
@@ -148,7 +148,6 @@ If you're still stuck, our support team is here to help!
 
 1. Your internet connection
 2. The complexity of your queries (simpler is often faster)
-
 
 If the problem persists, please contact support with details about your use case.
 

@@ -1,18 +1,18 @@
 ---
 description: >-
-  Comprehensive guide to the gintonic inference subchain. Learn how to leverage
+  Comprehensive guide to the Gintonic inference subchain. Learn how to leverage
   cost-effective, scalable AI model execution for your development projects.
 ---
 
-# inference subchain guide
+# Inference Subchain Guide
 
 ## Introduction to the inference subchain
 
-Welcome to the gintonic inference subchain - your gateway to cost-effective, scalable AI model execution. If you're an AI developer looking to leverage powerful language models without breaking the bank, you're in the right place.
+Welcome to the Gintonic inference subchain - your gateway to cost-effective, scalable AI model execution. If you're an AI developer looking to leverage powerful language models without breaking the bank, you're in the right place.
 
 ### What is the inference subchain?
 
-The inference subchain is a crucial component of the gintonic ecosystem. It's designed to bridge the gap between developers and our distributed AI infrastructure. Think of it as the API layer that lets you tap into the power of large language models (starting with Mistral LLM) without the headache of managing complex infrastructure.
+The inference subchain is a crucial component of the Gintonic ecosystem. It's designed to bridge the gap between developers and our distributed AI infrastructure. Think of it as the API layer that lets you tap into the power of large language models (starting with Mistral LLM) without the headache of managing complex infrastructure.
 
 ### Why Choose the inference subchain?
 

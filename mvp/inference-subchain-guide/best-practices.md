@@ -1,6 +1,6 @@
 ---
 description: >-
-  Optimize your use of the gintonic inference subchain with expert tips. Learn
+  Optimize your use of the Gintonic inference subchain with expert tips. Learn
   strategies for efficient API usage, error handling, and performance
   improvement.
 ---

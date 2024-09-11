@@ -1,14 +1,14 @@
 ---
 description: >-
-  Step-by-step instructions to join the gintonic distillery network. Learn
+  Step-by-step instructions to join the Gintonic distillery network. Learn
   system requirements, installation process, and initial setup for your node.
 ---
 
 # Getting Started
 
-## Getting Started with gintonic distillery
+## Getting Started with Gintonic distillery
 
-Ready to put your GPU to work? Great! This guide will walk you through the process of joining the gintonic distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
+Ready to put your GPU to work? Great! This guide will walk you through the process of joining the Gintonic distillery network. Don't worry if you're not a tech wizard - we've designed this process to be as straightforward as possible.
 
 ### System Requirements
 
@@ -52,7 +52,7 @@ While it's possible to run on other setups, we've optimized for these specificat
 
 ### Creating a gintonic distillery Account
 
-Before setting up your node, you'll need to create a gintonic distillery account:
+Before setting up your node, you'll need to create a Gintonic distillery account:
 
 1. Visit [https://console.gintonic.ai/distillery](https://console.gintonic.ai/distillery)
 2. Click on the "Sign Up" button
@@ -63,7 +63,7 @@ Before setting up your node, you'll need to create a gintonic distillery account
 4. Read and accept the Terms of Service and Privacy Policy
 5. Click "Create Account"
 6. Verify your email address by clicking the link sent to your inbox
-7. Once verified, log in to your new gintonic distillery account
+7. Once verified, log in to your new Gintonic distillery account
 
 {% hint style="info" %}
 Keep your account credentials safe and secure. You'll need them to manage your node and access your earnings.
@@ -95,26 +95,22 @@ Keep your account credentials safe and secure. You'll need them to manage your n
     curl -fsSL https://get.docker.com -o get-docker.sh
     sudo sh get-docker.sh
     ```
-4.  **Pull the gintonic distillery image**
+4.  **Pull the Gintonic distillery image**
 
     Grab our Docker image:
 
-    
-    ```bash    
+    ```bash
 
     docker pull gintonic/distillery:latest 
     ```
-5. **Set up your wallet**
+5.  **Set up your wallet**
 
-    You'll need an Ethereum-compatible wallet to receive your $GIN. \
+    You'll need an Ethereum-compatible wallet to receive your $GIN.\
     If you don't have one, we recommend [MetaMask](https://metamask.io/). Make sure to keep your private keys safe and secure!
-
-
 6. **Set up HuggingFace**
-
-    - Create an account on [HuggingFace](https://huggingface.co/)
-    - Create an Access Token in your HuggingFace account settings
-    - Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
+   * Create an account on [HuggingFace](https://huggingface.co/)
+   * Create an Access Token in your HuggingFace account settings
+   * Confirm access to this repository: [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 
 ### Setting Up Your Environment
 
@@ -129,16 +125,16 @@ Keep your account credentials safe and secure. You'll need them to manage your n
     }
     ```
 
-    Replace `YOUR_WALLET_ADDRESS_HERE` with your actual wallet address. The `gpu_allocation` value sets the percentage of your GPU you want to dedicate to gintonic (70% is a good starting point).
+    Replace `YOUR_WALLET_ADDRESS_HERE` with your actual wallet address. The `gpu_allocation` value sets the percentage of your GPU you want to dedicate to Gintonic (70% is a good starting point).
 2.  **Start your node**
 
-    Run the following command to start your gintonic distillery node:
+    Run the following command to start your Gintonic distillery node:
 
     ```bash
     docker run -d --gpus all -v ~/gintonic-config.json:/app/config.json gintonic/distillery:latest
     ```
 
-And that's it! Your GPU is now part of the gintonic network, ready to crunch some AI tasks and earn you some $GIN.
+And that's it! Your GPU is now part of the Gintonic network, ready to crunch some AI tasks and earn you some $GIN.
 
 {% hint style="info" %}
 **First time jitters?** It's normal to feel a bit nervous when setting this up for the first time. If you run into any issues, check out our Troubleshooting section or reach out on our community [Discord Channel](https://discord.gg/sGkz4RHz).

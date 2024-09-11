@@ -1,6 +1,6 @@
 ---
 description: >-
-  Dive into the fundamental concepts of the gintonic inference subchain.
+  Dive into the fundamental concepts of the Gintonic inference subchain.
   Understand how it works, its architecture, and key components for effective
   usage.
 ---
@@ -13,7 +13,7 @@ Let's pull back the curtain and take a peek at what makes the inference subchain
 
 ### The Big Picture
 
-At its heart, the inference subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger gintonic ecosystem:
+At its heart, the inference subchain is all about connecting you, the developer, with a distributed network of AI processing power. Here's how it fits into the bigger Gintonic ecosystem:
 
 ```mermaid
 graph LR
@@ -28,7 +28,7 @@ graph LR
 
 1. **API Layer**: This is where you come in. You send requests to our API, just like you would with any other cloud AI service.
 2. **Request Routing**: The inference subchain takes your request and figures out the best way to process it. It's like a traffic cop for AI tasks.
-3. **distillery Subnet**: This is where the magic happens. Your request gets broken down and distributed across a network of GPU-powered nodes.
+3. **Distillery Subnet**: This is where the magic happens. Your request gets broken down and distributed across a network of GPU-powered nodes.
 4. **Processing**: Each node crunches its part of the task. It's like a bunch of mini-brains working together on your problem.
 5. **Response Aggregation**: The inference subchain collects all the pieces, puts them back together, and sends you the final result.
 

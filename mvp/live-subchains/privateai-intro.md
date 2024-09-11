@@ -1,11 +1,11 @@
 ---
 description: >-
-  Overview of the gintonic PrivateAI Subchain, a decentralized protocol for
+  Overview of the Gintonic PrivateAI Subchain, a decentralized protocol for
   secure data sharing in AI. Learn about its marketplace, token economy, and AI
   integration.
 ---
 
-# privateAI intro
+# PrivateAI Intro
 
 ***
 
@@ -13,10 +13,10 @@ description: >-
 
 ### Overview
 
-The **gintonic** [**PrivateAI Subchain**](https://www.privateai.com/) serves as a decentralized protocol designed to empower data owners and producers in the AI ecosystem. By leveraging blockchain technology, this subchain ensures data privacy, secure transactions, and transparent data sharing, creating a trusted environment for AI-driven analytics and data services.
+The **Gintonic** [**PrivateAI Subchain**](https://www.privateai.com/) serves as a decentralized protocol designed to empower data owners and producers in the AI ecosystem. By leveraging blockchain technology, this subchain ensures data privacy, secure transactions, and transparent data sharing, creating a trusted environment for AI-driven analytics and data services.
 
 {% hint style="info" %}
-Visit PrivateAI subchain guide to get started
+Visit PrivateAI subchain guide to get started.
 {% endhint %}
 
 ### How It Works
@@ -41,9 +41,9 @@ The PrivateAI Subchain offers numerous advantages for data owners, researchers, 
 * **Advanced Analytics**: Access cutting-edge AI models and knowledge graphs for sophisticated data analysis.
 * **Quality Assurance**: Benefit from anti-plagiarism controls and peer review systems to maintain high data standards.
 
-### Synergy with the gintonic Ecosystem
+### Synergy with the Gintonic Ecosystem
 
-The PrivateAI Subchain enhances the gintonic ecosystem by:
+The PrivateAI Subchain enhances the Gintonic ecosystem by:
 
 * Providing a secure source of high-quality data for AI training and inference.
 * Offering additional use cases for the distributed AI infrastructure, particularly in data analysis and modeling.
@@ -55,6 +55,6 @@ By bridging the gap between data owners and AI developers, the PrivateAI Subchai
 
 1. Accelerating biomedical research through secure sharing of medical datasets.
 2. Enabling personalized medicine and drug repurposing via sophisticated knowledge graphs.
-3. Fostering collaborative research with secure, transparent data sharing mechanisms.
+3. Fostering collaborative research with secure, transparent data-sharing mechanisms.
 
-_Join us in revolutionizing data sharing for AI and unlock the potential of your datasets in a secure, rewarding environment!_
+_Join us in revolutionizing data sharing for AI and unlocking the potential of your datasets in a secure, rewarding environment!_

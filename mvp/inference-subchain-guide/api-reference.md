@@ -1,6 +1,6 @@
 ---
 description: >-
-  Detailed documentation of the gintonic inference subchain API. Explore
+  Detailed documentation of the Gintonic inference subchain API. Explore
   endpoints, request/response formats, and authentication for seamless
   integration.
 ---
@@ -26,10 +26,10 @@ Don't have an API key yet? Head over to the Getting Started guide to learn how t
 ### API Key Management
 
 {% hint style="info" %}
-* You can have up to 5 API keys active on your account at any given time
-* When generating a new API key, it will only be shown once. Make sure to copy and store it securely
-* There is no confirmation prompt when deleting a key, so be careful when managing your keys
-* If you try to delete a key that is currently in use, you'll see a warning: "API key is in use"
+* You can have up to 5 API keys active on your account at any given time.
+* When generating a new API key, it will only be shown once. Make sure to copy and store it securely.
+* There is no confirmation prompt when deleting a key, so be careful when managing your keys.
+* If you try to delete a key that is currently in use, you'll see a warning: "API key is in use".
 {% endhint %}
 
 ## WebSocket Endpoints

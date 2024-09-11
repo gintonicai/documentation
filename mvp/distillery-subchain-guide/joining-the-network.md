@@ -1,6 +1,6 @@
 ---
 description: >-
-  Detailed guide on connecting your node to the gintonic distillery network.
+  Detailed guide on connecting your node to the Gintonic distillery network.
   Understand peer IDs, addresses, and how to verify your connection.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ## Joining the Compute Mining Network
 
-Congratulations on setting up your gintonic distillery node! Now it's time to connect to the network and start earning those $GIN. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
+Congratulations on setting up your Gintonic distillery node! Now it's time to connect to the network and start earning that $GIN. This section will walk you through the process of joining the compute mining network and explain some key concepts along the way.
 
 ### Providing Your Public Address
 
@@ -19,7 +19,7 @@ Remember that wallet address you set up in the previous section? That's your tic
 * It helps us track your contributions accurately
 
 {% hint style="danger" %}
-**Never share your private key!** Your public address is safe to share, but keep your private key secret. Anyone with your private key can access your funds.
+**Never share your private key!** Your public address is safe to share but keep your private key secret. Anyone with your private key can access your funds.
 {% endhint %}
 
 ### Connecting to the Network
@@ -41,7 +41,7 @@ Note: The 'initial\_peer' address is provided during the installation process. T
 When your node joins the network:
 
 * It connects to an 'initial\_peer' address. This address is provided during the installation process.
-* By default, your node allocates 70% of your GPU's capacity to gintonic tasks. You can adjust this in your configuration file if needed.
+* By default, your node allocates 70% of your GPU's capacity to Gintonic tasks. You can adjust this in your configuration file if needed.
 
 {% hint style="warning" %}
 The 'initial\_peer' address is crucial for network security. Never share this address or try to alter it manually.
@@ -74,8 +74,8 @@ Want to make sure everything's running smoothly? Here's how to check:
     ```bash
     docker logs gintonic-distillery
     ```
-3. Look for a message like "Successfully joined the gintonic network"
+3. Look for a message like "Successfully joined the Gintonic network"
 
-If you see that message, congratulations! Your GPU is now part of the gintonic swarm, ready to take on AI tasks and earn you some $GIN.
+If you see that message, congratulations! Your GPU is now part of the Gintonic swarm, ready to take on AI tasks and earn you some $GIN.
 
 In the next section, we'll cover how rewards are calculated and how to check your earnings. Get ready to watch those $GIN roll in!

@@ -1,12 +1,12 @@
 ---
 description: >-
-  Comprehensive guide to solving common issues with your gintonic distillery
+  Comprehensive guide to solving common issues with your Gintonic distillery
   node. Find solutions to connectivity, performance, and configuration problems.
 ---
 
 # Troubleshooting
 
-## Troubleshooting Your gintonic distillery Node
+## Troubleshooting Your Gintonic Distillery Node
 
 Even the smoothest-running machines hit a snag now and then. Don't worry - we've got you covered. This section will walk you through common issues and their solutions, helping you get back to earning $GIN in no time.
 
@@ -16,8 +16,8 @@ Even the smoothest-running machines hit a snag now and then. Don't worry - we've
 
 **Symptoms**:
 
-* Docker container won't run
-* No logs being generated
+* Docker container won't run.
+* No logs being generated.
 
 **Possible Solutions**:
 
@@ -35,15 +35,16 @@ Even the smoothest-running machines hit a snag now and then. Don't worry - we've
 2.  Ensure you have the latest image:
 
     ```bash
-docker pull gintonic/distillery:latest 
-```
+    ```
+
+docker pull gintonic/distillery:latest
+
+````
 3. Check your `gintonic-config.json` file for errors:
 
 ```bash
 cat ~/gintonic-config.json
-```
-
-
+````
 
 Make sure your wallet address is correct and the JSON is valid.
 
@@ -74,8 +75,8 @@ Make sure your wallet address is correct and the JSON is valid.
 
 **Symptoms**:
 
-* GPU temperature consistently above 80°C
-* Thermal throttling messages in logs
+* GPU temperature consistently above 80°C.
+* Thermal throttling messages in logs.
 
 **Possible Solutions**:
 
@@ -96,12 +97,12 @@ Make sure your wallet address is correct and the JSON is valid.
 
 **Symptoms**:
 
-* Node frequently goes offline and online
-* Logs show connection errors
+* Node frequently goes offline and online.
+* Logs show connection errors.
 
 **Possible Solutions**:
 
-1. Check your internet connection stability
+1. Check your internet connection stability.
 2. Ensure required ports are open (default is 14234). You may need to configure your router.
 3. If using a VPN, try disabling it to see if it resolves the issue.
 
@@ -117,7 +118,6 @@ Here are some common error messages you might see in your logs, and what they me
 ### When to Seek Help
 
 If you've tried the solutions above and are still having issues, it's time to reach out. Here's where to get help:
-
 
 **Discord Channel**: Join our [Discord Channel](https://discord.gg/sGkz4RHz) and post in the #node-help channel. Our team and community members actively monitor this.
 

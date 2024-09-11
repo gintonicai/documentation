@@ -1,12 +1,12 @@
 ---
 description: >-
-  Master the art of maintaining your gintonic distillery node. Learn about logs,
+  Master the art of maintaining your Gintonic distillery node. Learn about logs,
   updates, GPU health monitoring, and best practices for optimal performance.
 ---
 
 # Managing Your Node
 
-## Managing Your gintonic distillery Node
+## Managing Your Gintonic Distillery Node
 
 Now that your node is up and running, earning you $GIN, it's important to keep an eye on its performance and health. This section will show you how to monitor your node, understand its status, and perform basic maintenance tasks.
 
@@ -37,12 +37,12 @@ Don't worry about understanding every line. Look out for:
 
 The logs contain information about:
 
-* Installation of required dependencies
-* Calculation of available video card memory
-* Petals server startup
-* Retrieval of the PeerID
-* PID of the running distillery server process
-* Sending a request to the backend with the blockchain address and PeerID
+* Installation of required dependencies.
+* Calculation of available video card memory.
+* Petals server startup.
+* Retrieval of the PeerID.
+* PID of the running distillery server process.
+* Sending a request to the backend with the blockchain address and PeerID.
 
 ### Starting and Stopping Your Node
 
@@ -64,7 +64,7 @@ docker start gintonic-distillery
 Remember, your node only earns $GIN when it's online and processing tasks. Try to minimize downtime!
 {% endhint %}
 
-Your gintonic client can be stopped in several ways:
+Your Gintonic client can be stopped in several ways:
 
 * Using the docker stop command (as shown above)
 * Manually killing the process
@@ -75,7 +75,7 @@ Regardless of how it's stopped, you can always restart your node using the docke
 
 ### Updating Your Node
 
-We're constantly improving gintonic. To get the latest version:
+We're constantly improving Gintonic. To get the latest version:
 
 1.  Stop your node:
 
@@ -118,9 +118,9 @@ Your GPU is the workhorse of your node. Keep it healthy:
 
 Watch out for:
 
-* High temperatures (over 80°C)
-* Memory errors
-* Power fluctuations
+* High temperatures (over 80°C).
+* Memory errors.
+* Power fluctuations.
 
 If you notice any issues, consider adjusting your GPU allocation in the `gintonic-config.json` file.
 
@@ -131,6 +131,6 @@ If you notice any issues, consider adjusting your GPU allocation in the `gintoni
 * **Cool and Clean**: Ensure good ventilation for your GPU
 * **Stable Power**: Use a UPS if possible to prevent sudden shutdowns
 
-By keeping your node healthy and up-to-date, you're not just maximizing your $GIN earnings - you're ensuring the gintonic network stays robust and efficient.
+By keeping your node healthy and up-to-date, you're not just maximizing your $GIN earnings - you're ensuring the Gintonic network stays robust and efficient.
 
 In the next section, we'll cover common troubleshooting steps to help you solve any issues that might pop up. Keep distilling!
